@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Clase01
+namespace PrimerPograma
 {
     internal class  Program
     {               
@@ -14,10 +14,10 @@ namespace Clase01
             Console.WriteLine(i.ToString());
 
 
-            if(CheckArray(args))
-            {
-                Console.WriteLine("Hello World!" + args[0]);
-            }
+            /*if(CheckArray(args))
+            {*/
+                Console.WriteLine("Hello World!"/* + args[0]*/);
+            //}
                 
             
             Console.ReadKey();

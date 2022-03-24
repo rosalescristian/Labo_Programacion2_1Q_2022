@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UTN FRA\\2022\\1Q\\Laboratorio y Programacion\\Cursada_Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase01\\Clase01\\Clase01\\Clase01.csproj",
-      "projectName": "Clase01",
-      "projectPath": "D:\\UTN FRA\\2022\\1Q\\Laboratorio y Programacion\\Cursada_Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase01\\Clase01\\Clase01\\Clase01.csproj",
+      "projectUniqueName": "D:\\UTN FRA\\2022\\1Q\\Laboratorio y Programacion\\Cursada_Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase01\\Clase01\\Clase01\\PrimerPrograma.csproj",
+      "projectName": "PrimerPrograma",
+      "projectPath": "D:\\UTN FRA\\2022\\1Q\\Laboratorio y Programacion\\Cursada_Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase01\\Clase01\\Clase01\\PrimerPrograma.csproj",
       "packagesPath": "C:\\Users\\crisp\\.nuget\\packages\\",
       "outputPath": "D:\\UTN FRA\\2022\\1Q\\Laboratorio y Programacion\\Cursada_Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase01\\Clase01\\Clase01\\obj\\",
       "projectStyle": "PackageReference",

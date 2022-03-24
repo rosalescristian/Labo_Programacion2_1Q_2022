@@ -1,0 +1,16 @@
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase01\Clase01\Clase01\bin\Debug\net5.0\PrimerPrograma.exe
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase01\Clase01\Clase01\bin\Debug\net5.0\PrimerPrograma.deps.json
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase01\Clase01\Clase01\bin\Debug\net5.0\PrimerPrograma.runtimeconfig.json
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase01\Clase01\Clase01\bin\Debug\net5.0\PrimerPrograma.runtimeconfig.dev.json
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase01\Clase01\Clase01\bin\Debug\net5.0\PrimerPrograma.dll
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase01\Clase01\Clase01\bin\Debug\net5.0\ref\PrimerPrograma.dll
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase01\Clase01\Clase01\bin\Debug\net5.0\PrimerPrograma.pdb
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase01\Clase01\Clase01\obj\Debug\net5.0\PrimerPrograma.csproj.AssemblyReference.cache
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase01\Clase01\Clase01\obj\Debug\net5.0\PrimerPrograma.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase01\Clase01\Clase01\obj\Debug\net5.0\PrimerPrograma.AssemblyInfoInputs.cache
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase01\Clase01\Clase01\obj\Debug\net5.0\PrimerPrograma.AssemblyInfo.cs
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase01\Clase01\Clase01\obj\Debug\net5.0\PrimerPrograma.csproj.CoreCompileInputs.cache
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase01\Clase01\Clase01\obj\Debug\net5.0\PrimerPrograma.dll
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase01\Clase01\Clase01\obj\Debug\net5.0\ref\PrimerPrograma.dll
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase01\Clase01\Clase01\obj\Debug\net5.0\PrimerPrograma.pdb
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase01\Clase01\Clase01\obj\Debug\net5.0\PrimerPrograma.genruntimeconfig.cache
