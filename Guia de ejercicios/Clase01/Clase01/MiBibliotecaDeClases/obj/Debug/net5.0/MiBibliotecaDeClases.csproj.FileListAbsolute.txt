@@ -1,0 +1,11 @@
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase01\Clase01\MiBibliotecaDeClases\bin\Debug\net5.0\MiBibliotecaDeClases.deps.json
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase01\Clase01\MiBibliotecaDeClases\bin\Debug\net5.0\MiBibliotecaDeClases.dll
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase01\Clase01\MiBibliotecaDeClases\bin\Debug\net5.0\ref\MiBibliotecaDeClases.dll
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase01\Clase01\MiBibliotecaDeClases\bin\Debug\net5.0\MiBibliotecaDeClases.pdb
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase01\Clase01\MiBibliotecaDeClases\obj\Debug\net5.0\MiBibliotecaDeClases.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase01\Clase01\MiBibliotecaDeClases\obj\Debug\net5.0\MiBibliotecaDeClases.AssemblyInfoInputs.cache
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase01\Clase01\MiBibliotecaDeClases\obj\Debug\net5.0\MiBibliotecaDeClases.AssemblyInfo.cs
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase01\Clase01\MiBibliotecaDeClases\obj\Debug\net5.0\MiBibliotecaDeClases.csproj.CoreCompileInputs.cache
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase01\Clase01\MiBibliotecaDeClases\obj\Debug\net5.0\MiBibliotecaDeClases.dll
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase01\Clase01\MiBibliotecaDeClases\obj\Debug\net5.0\ref\MiBibliotecaDeClases.dll
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase01\Clase01\MiBibliotecaDeClases\obj\Debug\net5.0\MiBibliotecaDeClases.pdb
