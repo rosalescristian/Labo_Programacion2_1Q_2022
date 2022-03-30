@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Bi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase 02 - Ejercicio I04 - Calculadora", "Clase 02 - Ejercicio I04 - Calculadora\Clase 02 - Ejercicio I04 - Calculadora.csproj", "{0D58C982-DE32-48F2-A797-94C63B08E440}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase 02 - Ejercicio A01 - Factorial", "Clase 02 - Ejercicio A01 - Factorial\Clase 02 - Ejercicio A01 - Factorial.csproj", "{B2A294BC-9265-45F6-A004-773F738BBB0E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{0D58C982-DE32-48F2-A797-94C63B08E440}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D58C982-DE32-48F2-A797-94C63B08E440}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D58C982-DE32-48F2-A797-94C63B08E440}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2A294BC-9265-45F6-A004-773F738BBB0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A294BC-9265-45F6-A004-773F738BBB0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A294BC-9265-45F6-A004-773F738BBB0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A294BC-9265-45F6-A004-773F738BBB0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
