@@ -1,0 +1,19 @@
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Clase02\bin\Debug\net5.0\Clase02 - Ejercicio I01 - Validador Rangos.exe
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Clase02\bin\Debug\net5.0\Clase02 - Ejercicio I01 - Validador Rangos.deps.json
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Clase02\bin\Debug\net5.0\Clase02 - Ejercicio I01 - Validador Rangos.runtimeconfig.json
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Clase02\bin\Debug\net5.0\Clase02 - Ejercicio I01 - Validador Rangos.runtimeconfig.dev.json
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Clase02\bin\Debug\net5.0\Clase02 - Ejercicio I01 - Validador Rangos.dll
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Clase02\bin\Debug\net5.0\ref\Clase02 - Ejercicio I01 - Validador Rangos.dll
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Clase02\bin\Debug\net5.0\Clase02 - Ejercicio I01 - Validador Rangos.pdb
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Clase02\bin\Debug\net5.0\Biblioteca.dll
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Clase02\bin\Debug\net5.0\Biblioteca.pdb
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Clase02\obj\Debug\net5.0\Clase02 - Ejercicio I01 - Validador Rangos.csproj.AssemblyReference.cache
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Clase02\obj\Debug\net5.0\Clase02 - Ejercicio I01 - Validador Rangos.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Clase02\obj\Debug\net5.0\Clase02 - Ejercicio I01 - Validador Rangos.AssemblyInfoInputs.cache
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Clase02\obj\Debug\net5.0\Clase02 - Ejercicio I01 - Validador Rangos.AssemblyInfo.cs
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Clase02\obj\Debug\net5.0\Clase02 - Ejercicio I01 - Validador Rangos.csproj.CoreCompileInputs.cache
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Clase02\obj\Debug\net5.0\Clase02 - Ejercicio I01 - Validador Rangos.csproj.CopyComplete
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Clase02\obj\Debug\net5.0\Clase02 - Ejercicio I01 - Validador Rangos.dll
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Clase02\obj\Debug\net5.0\ref\Clase02 - Ejercicio I01 - Validador Rangos.dll
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Clase02\obj\Debug\net5.0\Clase02 - Ejercicio I01 - Validador Rangos.pdb
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Clase02\obj\Debug\net5.0\Clase02 - Ejercicio I01 - Validador Rangos.genruntimeconfig.cache
