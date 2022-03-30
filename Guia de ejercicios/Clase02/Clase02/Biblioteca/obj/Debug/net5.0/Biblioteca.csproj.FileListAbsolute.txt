@@ -9,3 +9,4 @@ D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022
 D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
 D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
 D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache

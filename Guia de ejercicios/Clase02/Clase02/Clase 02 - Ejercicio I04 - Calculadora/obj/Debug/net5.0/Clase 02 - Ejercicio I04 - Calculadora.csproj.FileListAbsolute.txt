@@ -14,3 +14,6 @@ D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022
 D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Clase 02 - Ejercicio I04 - Calculadora\obj\Debug\net5.0\ref\Clase 02 - Ejercicio I04 - Calculadora.dll
 D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Clase 02 - Ejercicio I04 - Calculadora\obj\Debug\net5.0\Clase 02 - Ejercicio I04 - Calculadora.pdb
 D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Clase 02 - Ejercicio I04 - Calculadora\obj\Debug\net5.0\Clase 02 - Ejercicio I04 - Calculadora.genruntimeconfig.cache
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Clase 02 - Ejercicio I04 - Calculadora\bin\Debug\net5.0\Biblioteca.dll
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Clase 02 - Ejercicio I04 - Calculadora\bin\Debug\net5.0\Biblioteca.pdb
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Clase 02 - Ejercicio I04 - Calculadora\obj\Debug\net5.0\Clase 02 - Ejercicio I04 - Calculadora.csproj.CopyComplete

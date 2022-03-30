@@ -7,12 +7,12 @@ namespace Clase02
     {
         static void Main(string[] args)
         {
-            Console.Title = "Clase 02: 30/03/22 - Metodos";
-
+            //Console.Title = "Clase 02: 30/03/22 - Metodos";
             //float temperaturaCelsius = 30;
             //float temperaturaKelvin = ConversorDeTemperatura.ConvertirCelsiusAKelvin(temperaturaCelsius);
             //Console.WriteLine(temperaturaKelvin);
 
+            Console.Title = "Clase 02 : 30/03/22 - Ejercicio I01 Validador de Rangos";
             int numero;
             int contador = 0;
             int min = int.MaxValue;

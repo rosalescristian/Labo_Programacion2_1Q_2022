@@ -23,6 +23,11 @@ namespace Biblioteca
                 validador = true;
             }
             return validador;
+            /*
+             * Esteban lo resolvió así y es válido:
+             * return valor >= min && valor <= max; // Compara si el valor ingresado cumple con el true y devuelve true o false.
+             */
+        
         }
     }
 }
