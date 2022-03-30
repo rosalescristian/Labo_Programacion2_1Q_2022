@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Biblioteca
 {
-    public static class Factorial
+    public static class CalcularFactorial
     {
         /// <summary>
         /// Calcula el Factorial de un nro
