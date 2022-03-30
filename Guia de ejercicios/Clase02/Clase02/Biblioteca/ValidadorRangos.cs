@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Biblioteca
 {
-    public static class Validador
+    public static class ValidadorRangos
     {
         /// <summary>
         /// Valida que el valor ingresado se encuentre en un rango determinado

@@ -29,7 +29,7 @@ namespace Clase02
                         Console.WriteLine("Ingrese un Numero: ");
                         if (int.TryParse(Console.ReadLine(), out numero))
                         {
-                            if (Validador.Validar(numero, min, max))
+                            if (ValidadorRangos.Validar(numero, min, max))
                             {
                                 Console.WriteLine("El nro se encuentra dentro del rango ingresado");
                             }
