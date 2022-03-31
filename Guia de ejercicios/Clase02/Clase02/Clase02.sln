@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consola - StringBuilder", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase 02 - Ejercicio I05 - Apr las tablas", "Clase 02 - Ejercicio I05 - Apr las tablas\Clase 02 - Ejercicio I05 - Apr las tablas.csproj", "{D1EB5976-3677-40F6-BB69-484937FC4DF8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase 02 - Ejercicio I06 - Areas", "Clase 02 - Ejercicio I06 - Areas\Clase 02 - Ejercicio I06 - Areas.csproj", "{B6A3A174-C672-44EC-BA9B-342BF06C13A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{D1EB5976-3677-40F6-BB69-484937FC4DF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1EB5976-3677-40F6-BB69-484937FC4DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1EB5976-3677-40F6-BB69-484937FC4DF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6A3A174-C672-44EC-BA9B-342BF06C13A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6A3A174-C672-44EC-BA9B-342BF06C13A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6A3A174-C672-44EC-BA9B-342BF06C13A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6A3A174-C672-44EC-BA9B-342BF06C13A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
