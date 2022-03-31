@@ -13,7 +13,7 @@ namespace Clase_02___Ejercicio_A01___Factorial
             Console.WriteLine("Ingrese un nro: ");
             if(int.TryParse(Console.ReadLine(), out numeroUno))
             {
-                Console.WriteLine(CalcularFactorial.CalcularFactorial(numeroUno));
+                Console.WriteLine(CalculaFactorial.CalcularFactorial(numeroUno));
             }
             Console.ReadKey();
         }

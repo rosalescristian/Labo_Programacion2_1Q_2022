@@ -1,0 +1,15 @@
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Consola\obj\Debug\net5.0\Consola - StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Consola\obj\Debug\net5.0\Consola - StringBuilder.AssemblyInfoInputs.cache
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Consola\obj\Debug\net5.0\Consola - StringBuilder.AssemblyInfo.cs
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Consola\obj\Debug\net5.0\Consola - StringBuilder.csproj.CoreCompileInputs.cache
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Consola\bin\Debug\net5.0\Consola - StringBuilder.exe
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Consola\bin\Debug\net5.0\Consola - StringBuilder.deps.json
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Consola\bin\Debug\net5.0\Consola - StringBuilder.runtimeconfig.json
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Consola\bin\Debug\net5.0\Consola - StringBuilder.runtimeconfig.dev.json
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Consola\bin\Debug\net5.0\Consola - StringBuilder.dll
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Consola\bin\Debug\net5.0\ref\Consola - StringBuilder.dll
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Consola\bin\Debug\net5.0\Consola - StringBuilder.pdb
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Consola\obj\Debug\net5.0\Consola - StringBuilder.dll
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Consola\obj\Debug\net5.0\ref\Consola - StringBuilder.dll
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Consola\obj\Debug\net5.0\Consola - StringBuilder.pdb
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Consola\obj\Debug\net5.0\Consola - StringBuilder.genruntimeconfig.cache
