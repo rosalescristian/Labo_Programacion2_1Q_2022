@@ -16,7 +16,7 @@ namespace Biblioteca
         /// <returns>Devuelve el valor de la hipotenusa</returns>
         public static double CalcularHipotenusa(int baseTriangulo, int altura)
         {
-            return Math.Sqrt(Math.Pow(baseTriangulo,2)+ Math.Pow(altura,2));
+            return Math.Round(Math.Sqrt(Math.Pow(baseTriangulo,2)+ Math.Pow(altura,2)),2);
         }
     }
 }

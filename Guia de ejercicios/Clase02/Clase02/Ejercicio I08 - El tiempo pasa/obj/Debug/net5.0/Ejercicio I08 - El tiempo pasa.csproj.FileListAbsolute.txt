@@ -1,0 +1,19 @@
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Ejercicio I08 - El tiempo pasa\bin\Debug\net5.0\Ejercicio I08 - El tiempo pasa.exe
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Ejercicio I08 - El tiempo pasa\bin\Debug\net5.0\Ejercicio I08 - El tiempo pasa.deps.json
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Ejercicio I08 - El tiempo pasa\bin\Debug\net5.0\Ejercicio I08 - El tiempo pasa.runtimeconfig.json
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Ejercicio I08 - El tiempo pasa\bin\Debug\net5.0\Ejercicio I08 - El tiempo pasa.runtimeconfig.dev.json
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Ejercicio I08 - El tiempo pasa\bin\Debug\net5.0\Ejercicio I08 - El tiempo pasa.dll
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Ejercicio I08 - El tiempo pasa\bin\Debug\net5.0\Ejercicio I08 - El tiempo pasa.pdb
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Ejercicio I08 - El tiempo pasa\bin\Debug\net5.0\Biblioteca.dll
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Ejercicio I08 - El tiempo pasa\bin\Debug\net5.0\Biblioteca.pdb
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Ejercicio I08 - El tiempo pasa\obj\Debug\net5.0\Ejercicio I08 - El tiempo pasa.csproj.AssemblyReference.cache
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Ejercicio I08 - El tiempo pasa\obj\Debug\net5.0\Ejercicio I08 - El tiempo pasa.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Ejercicio I08 - El tiempo pasa\obj\Debug\net5.0\Ejercicio I08 - El tiempo pasa.AssemblyInfoInputs.cache
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Ejercicio I08 - El tiempo pasa\obj\Debug\net5.0\Ejercicio I08 - El tiempo pasa.AssemblyInfo.cs
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Ejercicio I08 - El tiempo pasa\obj\Debug\net5.0\Ejercicio I08 - El tiempo pasa.csproj.CoreCompileInputs.cache
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Ejercicio I08 - El tiempo pasa\obj\Debug\net5.0\Ejercicio I08 - El tiempo pasa.csproj.CopyComplete
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Ejercicio I08 - El tiempo pasa\obj\Debug\net5.0\Ejercicio I08 - El tiempo pasa.dll
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Ejercicio I08 - El tiempo pasa\obj\Debug\net5.0\refint\Ejercicio I08 - El tiempo pasa.dll
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Ejercicio I08 - El tiempo pasa\obj\Debug\net5.0\Ejercicio I08 - El tiempo pasa.pdb
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Ejercicio I08 - El tiempo pasa\obj\Debug\net5.0\Ejercicio I08 - El tiempo pasa.genruntimeconfig.cache
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase02\Clase02\Ejercicio I08 - El tiempo pasa\obj\Debug\net5.0\ref\Ejercicio I08 - El tiempo pasa.dll
