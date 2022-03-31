@@ -1,21 +1,23 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32228.343
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase02 - Ejercicio I01 - Validador Rangos", "Clase02\Clase02 - Ejercicio I01 - Validador Rangos.csproj", "{AC92629D-C129-4E62-9A0F-2A4CEB25B6EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase02 - Ejercicio I01 - Validador Rangos", "Clase02\Clase02 - Ejercicio I01 - Validador Rangos.csproj", "{AC92629D-C129-4E62-9A0F-2A4CEB25B6EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{CE860030-D611-4156-BC88-D5BEBDF57132}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{CE860030-D611-4156-BC88-D5BEBDF57132}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase 02 - Ejercicio I04 - Calculadora", "Clase 02 - Ejercicio I04 - Calculadora\Clase 02 - Ejercicio I04 - Calculadora.csproj", "{0D58C982-DE32-48F2-A797-94C63B08E440}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase 02 - Ejercicio I04 - Calculadora", "Clase 02 - Ejercicio I04 - Calculadora\Clase 02 - Ejercicio I04 - Calculadora.csproj", "{0D58C982-DE32-48F2-A797-94C63B08E440}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase 02 - Ejercicio A01 - Factorial", "Clase 02 - Ejercicio A01 - Factorial\Clase 02 - Ejercicio A01 - Factorial.csproj", "{B2A294BC-9265-45F6-A004-773F738BBB0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase 02 - Ejercicio A01 - Factorial", "Clase 02 - Ejercicio A01 - Factorial\Clase 02 - Ejercicio A01 - Factorial.csproj", "{B2A294BC-9265-45F6-A004-773F738BBB0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consola - StringBuilder", "Consola\Consola - StringBuilder.csproj", "{487A2841-20C4-4AE8-BFBE-E6097B1C6381}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Consola - StringBuilder", "Consola\Consola - StringBuilder.csproj", "{487A2841-20C4-4AE8-BFBE-E6097B1C6381}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase 02 - Ejercicio I05 - Apr las tablas", "Clase 02 - Ejercicio I05 - Apr las tablas\Clase 02 - Ejercicio I05 - Apr las tablas.csproj", "{D1EB5976-3677-40F6-BB69-484937FC4DF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase 02 - Ejercicio I05 - Apr las tablas", "Clase 02 - Ejercicio I05 - Apr las tablas\Clase 02 - Ejercicio I05 - Apr las tablas.csproj", "{D1EB5976-3677-40F6-BB69-484937FC4DF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase 02 - Ejercicio I06 - Areas", "Clase 02 - Ejercicio I06 - Areas\Clase 02 - Ejercicio I06 - Areas.csproj", "{B6A3A174-C672-44EC-BA9B-342BF06C13A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase 02 - Ejercicio I06 - Areas", "Clase 02 - Ejercicio I06 - Areas\Clase 02 - Ejercicio I06 - Areas.csproj", "{B6A3A174-C672-44EC-BA9B-342BF06C13A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase 02 - Ejercicio I07 - Pitagoras", "Clase 02 - Ejercicio I07 - Pitagoras\Clase 02 - Ejercicio I07 - Pitagoras.csproj", "{DEE59B2F-670D-429A-BE3E-BE038FD12370}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{B6A3A174-C672-44EC-BA9B-342BF06C13A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6A3A174-C672-44EC-BA9B-342BF06C13A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6A3A174-C672-44EC-BA9B-342BF06C13A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEE59B2F-670D-429A-BE3E-BE038FD12370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEE59B2F-670D-429A-BE3E-BE038FD12370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEE59B2F-670D-429A-BE3E-BE038FD12370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEE59B2F-670D-429A-BE3E-BE038FD12370}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
