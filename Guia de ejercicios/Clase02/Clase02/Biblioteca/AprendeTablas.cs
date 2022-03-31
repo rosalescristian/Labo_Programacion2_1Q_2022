@@ -28,7 +28,7 @@ namespace Biblioteca
                 stringBuilder.Append(" x ");
                 stringBuilder.Append(i);
                 stringBuilder.Append(" = ");
-                stringBuilder.AppendFormat("{0}",producto);
+                stringBuilder.Append(producto);
                 stringBuilder.Append($"{Environment.NewLine}");
             }
             return stringBuilder.ToString();
