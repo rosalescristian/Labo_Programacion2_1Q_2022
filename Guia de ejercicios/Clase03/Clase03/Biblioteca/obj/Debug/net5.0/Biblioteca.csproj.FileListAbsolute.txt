@@ -1,0 +1,12 @@
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Biblioteca\obj\Debug\net5.0\refint\Biblioteca.dll
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
+D:\UTN FRA\2022\1Q\Laboratorio y Programacion\Cursada_Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
