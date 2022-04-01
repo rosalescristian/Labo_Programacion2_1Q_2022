@@ -17,7 +17,8 @@ namespace Biblioteca
         /// <param name="color"></param>
         public Boligrafo(short tinta, ConsoleColor color)
         {
-
+            this.tinta = tinta;
+            this.color = color;
         }
 
         /// <summary>
@@ -46,7 +47,26 @@ namespace Biblioteca
         /// <returns></returns>
         public bool Pintar(short gasto, out string dibujo)
         {
-
+            short nivelTinta = GetTinta();
+            bool pintado = false;
+            dibujo = "";
+            short consumo = (short)(gasto * -1);
+            if(nivelTinta >= gasto)
+            {
+                pintado = true;
+                Console.ForegroundColor = this.GetColor();
+                dibujo = new string('*', gasto);
+                SetTinta(consumo);
+            }
+            else if(nivelTinta < gasto)
+            {
+                pintado = true;
+                Console.ForegroundColor = this.GetColor();
+                dibujo = new string('*', nivelTinta);
+                SetTinta(consumo);
+            }
+            return pintado;
+            
         }
 
         /// <summary>
@@ -54,7 +74,7 @@ namespace Biblioteca
         /// </summary>
         public void Recargar()
         {
-            short recarga = (short)(100-GetTinta());
+            short recarga = (short)(cantidadTintaMaxima-GetTinta());
             SetTinta(recarga);
         }
 
@@ -65,8 +85,8 @@ namespace Biblioteca
         private void SetTinta(short tinta)
         {
             short nivelTinta = GetTinta();
-            int nuevoNivelTinta = nivelTinta + tinta;
-            if(nuevoNivelTinta > -1 && nuevoNivelTinta < 101)
+            short nuevoNivelTinta = (short)(nivelTinta + tinta);
+            if(nuevoNivelTinta >= 0 && nuevoNivelTinta <= cantidadTintaMaxima)
             {
                 this.tinta += tinta;
             }
