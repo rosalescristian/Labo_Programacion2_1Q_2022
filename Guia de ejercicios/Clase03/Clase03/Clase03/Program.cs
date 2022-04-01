@@ -7,12 +7,12 @@ namespace Clase03
     {
         static void Main(string[] args)
         {
-            Console.Title = "Clase 03: 31/03/2022 - Ejercicio I01";
+            Console.Title = "Clase 03: 31/03/2022 - Ejercicio I01 - Necesito un Prestamo";
 
             Cuenta nuevaCuenta = new Cuenta("Armando Puertas", 13579);
             Console.WriteLine(Cuenta.MostrarDatosDeLaCuenta(nuevaCuenta));
             
-            nuevaCuenta.IngresarDinero(10000);
+            nuevaCuenta.IngresarDinero(10000.57m);
             Console.WriteLine(Cuenta.MostrarDatosDeLaCuenta(nuevaCuenta));
             
             nuevaCuenta.IngresarDinero(-7500);
