@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UTN FRA\\2022\\Laboratorio y Programacion\\Cursada_Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase03\\Clase03\\Clase03\\Clase03 - I01 - Prestamo.csproj": {}
+    "D:\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase03\\Clase03\\Clase03\\Clase03 - I01 - Prestamo.csproj": {}
   },
   "projects": {
-    "D:\\UTN FRA\\2022\\Laboratorio y Programacion\\Cursada_Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase03\\Clase03\\Biblioteca\\Biblioteca.csproj": {
+    "D:\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase03\\Clase03\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UTN FRA\\2022\\Laboratorio y Programacion\\Cursada_Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase03\\Clase03\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "D:\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase03\\Clase03\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "D:\\UTN FRA\\2022\\Laboratorio y Programacion\\Cursada_Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase03\\Clase03\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "D:\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase03\\Clase03\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\crisp\\.nuget\\packages\\",
-        "outputPath": "D:\\UTN FRA\\2022\\Laboratorio y Programacion\\Cursada_Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase03\\Clase03\\Biblioteca\\obj\\",
+        "outputPath": "D:\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase03\\Clase03\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\crisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "D:\\UTN FRA\\2022\\Laboratorio y Programacion\\Cursada_Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase03\\Clase03\\Clase03\\Clase03 - I01 - Prestamo.csproj": {
+    "D:\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase03\\Clase03\\Clase03\\Clase03 - I01 - Prestamo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UTN FRA\\2022\\Laboratorio y Programacion\\Cursada_Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase03\\Clase03\\Clase03\\Clase03 - I01 - Prestamo.csproj",
+        "projectUniqueName": "D:\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase03\\Clase03\\Clase03\\Clase03 - I01 - Prestamo.csproj",
         "projectName": "Clase03 - I01 - Prestamo",
-        "projectPath": "D:\\UTN FRA\\2022\\Laboratorio y Programacion\\Cursada_Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase03\\Clase03\\Clase03\\Clase03 - I01 - Prestamo.csproj",
+        "projectPath": "D:\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase03\\Clase03\\Clase03\\Clase03 - I01 - Prestamo.csproj",
         "packagesPath": "C:\\Users\\crisp\\.nuget\\packages\\",
-        "outputPath": "D:\\UTN FRA\\2022\\Laboratorio y Programacion\\Cursada_Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase03\\Clase03\\Clase03\\obj\\",
+        "outputPath": "D:\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase03\\Clase03\\Clase03\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\crisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\UTN FRA\\2022\\Laboratorio y Programacion\\Cursada_Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase03\\Clase03\\Biblioteca\\Biblioteca.csproj": {
-                "projectPath": "D:\\UTN FRA\\2022\\Laboratorio y Programacion\\Cursada_Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase03\\Clase03\\Biblioteca\\Biblioteca.csproj"
+              "D:\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase03\\Clase03\\Biblioteca\\Biblioteca.csproj": {
+                "projectPath": "D:\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase03\\Clase03\\Biblioteca\\Biblioteca.csproj"
               }
             }
           }

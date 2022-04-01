@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UTN FRA\\2022\\1Q\\Laboratorio y Programacion\\Cursada_Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase02\\Clase02\\Ejercicio I08 - El tiempo pasa\\Ejercicio I08 - El tiempo pasa.csproj",
+      "projectUniqueName": "D:\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase02\\Clase02\\Ejercicio I08 - El tiempo pasa\\Ejercicio I08 - El tiempo pasa.csproj",
       "projectName": "Ejercicio I08 - El tiempo pasa",
-      "projectPath": "D:\\UTN FRA\\2022\\1Q\\Laboratorio y Programacion\\Cursada_Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase02\\Clase02\\Ejercicio I08 - El tiempo pasa\\Ejercicio I08 - El tiempo pasa.csproj",
+      "projectPath": "D:\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase02\\Clase02\\Ejercicio I08 - El tiempo pasa\\Ejercicio I08 - El tiempo pasa.csproj",
       "packagesPath": "C:\\Users\\crisp\\.nuget\\packages\\",
-      "outputPath": "D:\\UTN FRA\\2022\\1Q\\Laboratorio y Programacion\\Cursada_Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase02\\Clase02\\Ejercicio I08 - El tiempo pasa\\obj\\",
+      "outputPath": "D:\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase02\\Clase02\\Ejercicio I08 - El tiempo pasa\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\crisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\UTN FRA\\2022\\1Q\\Laboratorio y Programacion\\Cursada_Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase02\\Clase02\\Biblioteca\\Biblioteca.csproj": {
-              "projectPath": "D:\\UTN FRA\\2022\\1Q\\Laboratorio y Programacion\\Cursada_Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase02\\Clase02\\Biblioteca\\Biblioteca.csproj"
+            "D:\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase02\\Clase02\\Biblioteca\\Biblioteca.csproj": {
+              "projectPath": "D:\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase02\\Clase02\\Biblioteca\\Biblioteca.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UTN FRA\\2022\\1Q\\Laboratorio y Programacion\\Cursada_Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase02\\Clase02\\Clase02\\Clase02 - Ejercicio I01 - Validador Rangos.csproj": {}
+    "D:\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase02\\Clase02\\Clase02\\Clase02 - Ejercicio I01 - Validador Rangos.csproj": {}
   },
   "projects": {
-    "D:\\UTN FRA\\2022\\1Q\\Laboratorio y Programacion\\Cursada_Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase02\\Clase02\\Biblioteca\\Biblioteca.csproj": {
+    "D:\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase02\\Clase02\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UTN FRA\\2022\\1Q\\Laboratorio y Programacion\\Cursada_Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase02\\Clase02\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "D:\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase02\\Clase02\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "D:\\UTN FRA\\2022\\1Q\\Laboratorio y Programacion\\Cursada_Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase02\\Clase02\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "D:\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase02\\Clase02\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\crisp\\.nuget\\packages\\",
-        "outputPath": "D:\\UTN FRA\\2022\\1Q\\Laboratorio y Programacion\\Cursada_Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase02\\Clase02\\Biblioteca\\obj\\",
+        "outputPath": "D:\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase02\\Clase02\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\crisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "D:\\UTN FRA\\2022\\1Q\\Laboratorio y Programacion\\Cursada_Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase02\\Clase02\\Clase02\\Clase02 - Ejercicio I01 - Validador Rangos.csproj": {
+    "D:\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase02\\Clase02\\Clase02\\Clase02 - Ejercicio I01 - Validador Rangos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UTN FRA\\2022\\1Q\\Laboratorio y Programacion\\Cursada_Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase02\\Clase02\\Clase02\\Clase02 - Ejercicio I01 - Validador Rangos.csproj",
+        "projectUniqueName": "D:\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase02\\Clase02\\Clase02\\Clase02 - Ejercicio I01 - Validador Rangos.csproj",
         "projectName": "Clase02 - Ejercicio I01 - Validador Rangos",
-        "projectPath": "D:\\UTN FRA\\2022\\1Q\\Laboratorio y Programacion\\Cursada_Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase02\\Clase02\\Clase02\\Clase02 - Ejercicio I01 - Validador Rangos.csproj",
+        "projectPath": "D:\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase02\\Clase02\\Clase02\\Clase02 - Ejercicio I01 - Validador Rangos.csproj",
         "packagesPath": "C:\\Users\\crisp\\.nuget\\packages\\",
-        "outputPath": "D:\\UTN FRA\\2022\\1Q\\Laboratorio y Programacion\\Cursada_Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase02\\Clase02\\Clase02\\obj\\",
+        "outputPath": "D:\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase02\\Clase02\\Clase02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\crisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\UTN FRA\\2022\\1Q\\Laboratorio y Programacion\\Cursada_Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase02\\Clase02\\Biblioteca\\Biblioteca.csproj": {
-                "projectPath": "D:\\UTN FRA\\2022\\1Q\\Laboratorio y Programacion\\Cursada_Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase02\\Clase02\\Biblioteca\\Biblioteca.csproj"
+              "D:\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase02\\Clase02\\Biblioteca\\Biblioteca.csproj": {
+                "projectPath": "D:\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase02\\Clase02\\Biblioteca\\Biblioteca.csproj"
               }
             }
           }

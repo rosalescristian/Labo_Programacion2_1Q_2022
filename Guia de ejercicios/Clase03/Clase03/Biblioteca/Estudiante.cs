@@ -14,7 +14,7 @@ namespace Biblioteca
         private string legajo;
         private int notaPrimerParcial;
         private int notaSegundoParcial;
-        private Random random;
+        private Random random = new Random();
         #endregion
 
         /// <summary>
@@ -22,7 +22,7 @@ namespace Biblioteca
         /// </summary>
         public Estudiante()
         {
-            this.random = new Random();
+            this.random.Next();
         }
 
         /// <summary>
@@ -44,7 +44,7 @@ namespace Biblioteca
         /// <returns></returns>
         public double CalcularNotaFinal()
         {
-            double notaFinal = 0;
+            double notaFinal = -1;
             if(this.notaPrimerParcial >= 4 && this.notaSegundoParcial >= 4)
             {
                 notaFinal = random.Next(6, 11);
@@ -69,15 +69,21 @@ namespace Biblioteca
         public string MostrarEstudiante()
         {
             StringBuilder sb = new StringBuilder();
-            sb.Append("Nombre: ");
-            sb.AppendLine(this.nombre);
-            sb.Append("Apellido: ");
-            sb.Append("Legajo: ");
-            sb.AppendLine(this.legajo);
-            sb.AppendFormat("Nota Parcial 1: {0}", notaPrimerParcial);
-            sb.AppendFormat("Nota Parcial 2: {0}", notaSegundoParcial);
+            sb.AppendFormat("Nombre: {0}, Apellido: {1}, Legajo: {2}", this.nombre,this.apellido,this.legajo);
+            sb.Append($"{Environment.NewLine}");
+            sb.AppendFormat("Nota Parcial 1: {0}. Nota Parcial 2: {1}", this.notaPrimerParcial, this.notaSegundoParcial);
+            sb.Append($"{Environment.NewLine}");
             sb.AppendFormat("Promedio: {0}", CalcularPromedio());
-            sb.AppendFormat("Nota Final: {0}",CalcularNotaFinal());
+            sb.Append($"{Environment.NewLine}");
+            double notaFinal = CalcularNotaFinal();
+            if (notaFinal != -1)
+            {
+                sb.AppendFormat("Nota Final: {0}",notaFinal);
+            }
+            else
+            {
+                sb.AppendFormat("Alumno Desaprobado.");
+            }
 
             return sb.ToString();
         }
