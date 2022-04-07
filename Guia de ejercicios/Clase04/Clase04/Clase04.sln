@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase04", "Clase04\Clase04.csproj", "{1AD7B1D0-4C9A-4FDB-BBEE-8F38ACE407FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase04", "Clase04\Clase04.csproj", "{1AD7B1D0-4C9A-4FDB-BBEE-8F38ACE407FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{1A8FBE49-4328-42E9-B173-FC471BDEFC04}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{1A8FBE49-4328-42E9-B173-FC471BDEFC04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej C02 - Estanteria", "Ej C02 - Estanteria\Ej C02 - Estanteria.csproj", "{7003595A-A500-46B3-8EBE-1E70B1EDB02B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{1A8FBE49-4328-42E9-B173-FC471BDEFC04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A8FBE49-4328-42E9-B173-FC471BDEFC04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A8FBE49-4328-42E9-B173-FC471BDEFC04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7003595A-A500-46B3-8EBE-1E70B1EDB02B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7003595A-A500-46B3-8EBE-1E70B1EDB02B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7003595A-A500-46B3-8EBE-1E70B1EDB02B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7003595A-A500-46B3-8EBE-1E70B1EDB02B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
