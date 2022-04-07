@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Biblioteca
 {
-    internal class Producto
+    public class Producto
     {
         private string codigoDeBarra;
         private string marca;
@@ -26,7 +26,7 @@ namespace Biblioteca
         }
 
         /// <summary>
-        /// 
+        /// Devuelve la Marca del producto
         /// </summary>
         /// <returns></returns>
         public string GetMarca()
@@ -35,7 +35,7 @@ namespace Biblioteca
         }
 
         /// <summary>
-        /// 
+        /// Devuelve el precio del producto
         /// </summary>
         /// <returns></returns>
         public float GetPrecio()
@@ -44,61 +44,65 @@ namespace Biblioteca
         }
 
         /// <summary>
-        /// 
+        /// Muestra un string con los datos del producto
         /// </summary>
         /// <param name="p"></param>
         /// <returns></returns>
         public static string MostrarProducto(Producto p)
         {
-            return $"{p.marca} - {p.precio} - {p.codigoDeBarra}";
+            return $"Marca: {p.marca} - Precio: {p.precio} - Cod. de Barras: {p.codigoDeBarra}";
         }
 
         /// <summary>
-        /// 
+        /// Compara si la marca del producto es distinto a la marca ingresada por parametros
         /// </summary>
         /// <param name="p"></param>
         /// <param name="marca"></param>
         /// <returns></returns>
         public static bool operator !=(Producto p, string marca)
         {
-            return (p.marca != marca);
+            return p.marca != marca;
         }
 
         /// <summary>
-        /// 
+        /// Compara si la marca de los productos y sus codigos de barra son distintos
         /// </summary>
         /// <param name="p1"></param>
         /// <param name="p2"></param>
         /// <returns></returns>
         public static bool operator !=(Producto p1, Producto p2)
         {
-            return (p1.marca != p2.marca && p1.codigoDeBarra != p2.codigoDeBarra);
+            return p1.marca != p2.marca && p1.codigoDeBarra != p2.codigoDeBarra;
         }
 
         /// <summary>
-        /// 
+        /// Compara la marca del producto vs la marca ingresada por parametro
         /// </summary>
         /// <param name="p"></param>
         /// <param name="marca"></param>
         /// <returns></returns>
         public static bool operator ==(Producto p, string marca)
         {
-            return (p.marca == marca);
+            return p.marca == marca;
         }
 
         /// <summary>
-        /// 
+        /// Compara si la marca de los productos y sus codigos de barras son distintos
         /// </summary>
         /// <param name="p1"></param>
         /// <param name="p2"></param>
         /// <returns></returns>
         public static bool operator ==(Producto p1, Producto p2)
         {
-            return (p1.marca == p2.marca && p1.codigoDeBarra == p2.codigoDeBarra);
+            if(p1 is not null && p2 is not null)
+            {
+                return p1.marca == p2.marca && p1.codigoDeBarra == p2.codigoDeBarra;
+            }
+            return false;
         }
 
         /// <summary>
-        /// 
+        /// Devuelve el codigo de barras del producto
         /// </summary>
         /// <param name="p"></param>
         public static explicit operator string(Producto p)

@@ -1,0 +1,19 @@
+D:\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase04\Clase04\Ej C02 - Estanteria\bin\Debug\net5.0\Ej C02 - Estanteria.exe
+D:\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase04\Clase04\Ej C02 - Estanteria\bin\Debug\net5.0\Ej C02 - Estanteria.deps.json
+D:\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase04\Clase04\Ej C02 - Estanteria\bin\Debug\net5.0\Ej C02 - Estanteria.runtimeconfig.json
+D:\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase04\Clase04\Ej C02 - Estanteria\bin\Debug\net5.0\Ej C02 - Estanteria.runtimeconfig.dev.json
+D:\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase04\Clase04\Ej C02 - Estanteria\bin\Debug\net5.0\Ej C02 - Estanteria.dll
+D:\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase04\Clase04\Ej C02 - Estanteria\bin\Debug\net5.0\Ej C02 - Estanteria.pdb
+D:\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase04\Clase04\Ej C02 - Estanteria\bin\Debug\net5.0\Biblioteca.dll
+D:\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase04\Clase04\Ej C02 - Estanteria\bin\Debug\net5.0\Biblioteca.pdb
+D:\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase04\Clase04\Ej C02 - Estanteria\obj\Debug\net5.0\Ej C02 - Estanteria.csproj.AssemblyReference.cache
+D:\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase04\Clase04\Ej C02 - Estanteria\obj\Debug\net5.0\Ej C02 - Estanteria.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase04\Clase04\Ej C02 - Estanteria\obj\Debug\net5.0\Ej C02 - Estanteria.AssemblyInfoInputs.cache
+D:\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase04\Clase04\Ej C02 - Estanteria\obj\Debug\net5.0\Ej C02 - Estanteria.AssemblyInfo.cs
+D:\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase04\Clase04\Ej C02 - Estanteria\obj\Debug\net5.0\Ej C02 - Estanteria.csproj.CoreCompileInputs.cache
+D:\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase04\Clase04\Ej C02 - Estanteria\obj\Debug\net5.0\Ej C02 - Estanteria.csproj.CopyComplete
+D:\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase04\Clase04\Ej C02 - Estanteria\obj\Debug\net5.0\Ej C02 - Estanteria.dll
+D:\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase04\Clase04\Ej C02 - Estanteria\obj\Debug\net5.0\refint\Ej C02 - Estanteria.dll
+D:\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase04\Clase04\Ej C02 - Estanteria\obj\Debug\net5.0\Ej C02 - Estanteria.pdb
+D:\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase04\Clase04\Ej C02 - Estanteria\obj\Debug\net5.0\Ej C02 - Estanteria.genruntimeconfig.cache
+D:\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase04\Clase04\Ej C02 - Estanteria\obj\Debug\net5.0\ref\Ej C02 - Estanteria.dll
