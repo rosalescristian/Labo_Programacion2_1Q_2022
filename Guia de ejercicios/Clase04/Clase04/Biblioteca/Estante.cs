@@ -39,7 +39,7 @@ namespace Biblioteca
         }
 
         /// <summary>
-        /// 
+        /// Muestra todos los productos en el estante
         /// </summary>
         /// <returns></returns>
         public static string MostrarEstante(Estante e)
@@ -54,7 +54,7 @@ namespace Biblioteca
         }
 
         /// <summary>
-        /// 
+        /// Compara si el producto no está en el estante
         /// </summary>
         /// <param name="e"></param>
         /// <param name="p"></param>
@@ -65,7 +65,7 @@ namespace Biblioteca
         }
 
         /// <summary>
-        /// 
+        /// Compara si el producto está en el estante
         /// </summary>
         /// <param name="e"></param>
         /// <param name="p"></param>
@@ -83,7 +83,7 @@ namespace Biblioteca
         }
 
         /// <summary>
-        /// 
+        /// Si el producto está en el estante lo quita
         /// </summary>
         /// <param name="e"></param>
         /// <param name="p"></param>
@@ -105,7 +105,7 @@ namespace Biblioteca
         }
 
         /// <summary>
-        /// 
+        /// Si el producto no está en el estante, lo suma
         /// </summary>
         /// <param name="e"></param>
         /// <param name="p"></param>
