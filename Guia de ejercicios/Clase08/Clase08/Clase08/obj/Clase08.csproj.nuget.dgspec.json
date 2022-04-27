@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase07\\Clase07\\Clase07\\Clase08.csproj": {}
+    "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase08\\Clase08\\Clase08\\Clase08.csproj": {}
   },
   "projects": {
-    "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase07\\Clase07\\Biblioteca\\Biblioteca.csproj": {
+    "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase08\\Clase08\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase07\\Clase07\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase08\\Clase08\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase07\\Clase07\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase08\\Clase08\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\crisp\\.nuget\\packages\\",
-        "outputPath": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase07\\Clase07\\Biblioteca\\obj\\",
+        "outputPath": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase08\\Clase08\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\crisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase07\\Clase07\\Clase07\\Clase08.csproj": {
+    "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase08\\Clase08\\Clase08\\Clase08.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase07\\Clase07\\Clase07\\Clase08.csproj",
+        "projectUniqueName": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase08\\Clase08\\Clase08\\Clase08.csproj",
         "projectName": "Clase08",
-        "projectPath": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase07\\Clase07\\Clase07\\Clase08.csproj",
+        "projectPath": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase08\\Clase08\\Clase08\\Clase08.csproj",
         "packagesPath": "C:\\Users\\crisp\\.nuget\\packages\\",
-        "outputPath": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase07\\Clase07\\Clase07\\obj\\",
+        "outputPath": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase08\\Clase08\\Clase08\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\crisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase07\\Clase07\\Biblioteca\\Biblioteca.csproj": {
-                "projectPath": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase07\\Clase07\\Biblioteca\\Biblioteca.csproj"
+              "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase08\\Clase08\\Biblioteca\\Biblioteca.csproj": {
+                "projectPath": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase08\\Clase08\\Biblioteca\\Biblioteca.csproj"
               }
             }
           }

@@ -1,13 +1,15 @@
 ﻿using System;
 using Biblioteca;
 
-namespace Clase07
+namespace Clase08
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.Title = "Clase 08: Herencia | 2022-04-27";
+            
+            Console.ReadKey();
         }
     }
 }
