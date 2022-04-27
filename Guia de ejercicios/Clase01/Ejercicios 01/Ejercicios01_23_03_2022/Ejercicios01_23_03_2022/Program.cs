@@ -8,6 +8,7 @@ namespace Ejercicios01_23_03_2022
         {
             Console.Title = "Ejercicio I01 - Min, Max y Avg";
 
+            Console.WriteLine(Double.MinValue);
             int numero, minimo=int.MaxValue, maximo=int.MinValue, suma=0, contador=0, promedio=0;
 
             do
