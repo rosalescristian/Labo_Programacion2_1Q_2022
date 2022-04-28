@@ -8,5 +8,10 @@ namespace Biblioteca
         {
             return "Emitiendo sonido...";
         }
+
+        public string Pensar()
+        {
+            return "Pensando...";
+        }
     }
 }

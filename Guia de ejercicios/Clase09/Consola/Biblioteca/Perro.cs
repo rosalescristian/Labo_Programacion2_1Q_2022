@@ -12,5 +12,10 @@ namespace Biblioteca
         {
             return "Woof Woof";
         }
+
+        public new string Pensar()
+        {
+            return "Los perros no piensan...";
+        }
     }
 }

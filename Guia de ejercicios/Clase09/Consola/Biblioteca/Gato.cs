@@ -12,5 +12,10 @@ namespace Biblioteca
         {
             return "Miau miau";
         }
+
+        public new string Pensar()
+        {
+            return "Estoy pensando en dominar el mundo...";
+        }
     }
 }
