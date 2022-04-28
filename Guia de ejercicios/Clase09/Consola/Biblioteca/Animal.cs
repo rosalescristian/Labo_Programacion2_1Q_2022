@@ -20,5 +20,14 @@ namespace Biblioteca
         {
             return "Pensando...";
         }
+        public static bool operator ==(Animal g1, Animal g2)
+        {
+            return g1 is not null && g2 is not null && g1.nombre == g2.nombre;
+        }
+
+        public static bool operator !=(Animal g1, Animal g2)
+        {
+            return !(g1 == g2);
+        }
     }
 }

@@ -11,14 +11,14 @@ namespace Consola
 
             //La herencia no polimorfica se fija en el tipo de datos de la variable(Se resuelve en tiempo de compilacion)
             //La herencia polimorfica se fija en la instancia ( se resuelve en tiempo de ejecucion)
-            Animal animal = new Animal();
-            Perro perro = new Perro();
-            Gato gato = new Gato();
-            Gatito gatito = new Gatito();
+            Animal animal = new Animal("a");
+            Perro perro = new Perro("a");
+            Gatito gatito = new Gatito("a");
             //La herencia se resuelve en tiempo de ejecucion (CLR) q elige los metodos que va a ejecutar
             //El polimorfismo se resuelve en tiempo de ejecucion (CLR)
 
-            Animal gatoDos = new Gato();
+            Gato gato = new Gato("Salem");
+            Animal gatoDos = new Gato("Bola de Nieve");
             Animal perroDos = new Perro();
             Animal gatitoDos = new Gatito();
 
