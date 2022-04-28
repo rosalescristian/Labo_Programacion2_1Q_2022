@@ -1,0 +1,15 @@
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase08\Ejercicio I01\Ejercicio I01\Ej I01\obj\Debug\net5.0\Ej I01.csproj.AssemblyReference.cache
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase08\Ejercicio I01\Ejercicio I01\Ej I01\obj\Debug\net5.0\Ej I01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase08\Ejercicio I01\Ejercicio I01\Ej I01\obj\Debug\net5.0\Ej I01.AssemblyInfoInputs.cache
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase08\Ejercicio I01\Ejercicio I01\Ej I01\obj\Debug\net5.0\Ej I01.AssemblyInfo.cs
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase08\Ejercicio I01\Ejercicio I01\Ej I01\obj\Debug\net5.0\Ej I01.csproj.CoreCompileInputs.cache
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase08\Ejercicio I01\Ejercicio I01\Ej I01\bin\Debug\net5.0\Ej I01.deps.json
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase08\Ejercicio I01\Ejercicio I01\Ej I01\bin\Debug\net5.0\Ej I01.dll
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase08\Ejercicio I01\Ejercicio I01\Ej I01\bin\Debug\net5.0\Ej I01.pdb
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase08\Ejercicio I01\Ejercicio I01\Ej I01\bin\Debug\net5.0\Ejercicio I01.dll
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase08\Ejercicio I01\Ejercicio I01\Ej I01\bin\Debug\net5.0\Ejercicio I01.pdb
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase08\Ejercicio I01\Ejercicio I01\Ej I01\obj\Debug\net5.0\Ej I01.csproj.CopyComplete
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase08\Ejercicio I01\Ejercicio I01\Ej I01\obj\Debug\net5.0\Ej I01.dll
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase08\Ejercicio I01\Ejercicio I01\Ej I01\obj\Debug\net5.0\refint\Ej I01.dll
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase08\Ejercicio I01\Ejercicio I01\Ej I01\obj\Debug\net5.0\Ej I01.pdb
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase08\Ejercicio I01\Ejercicio I01\Ej I01\obj\Debug\net5.0\ref\Ej I01.dll
