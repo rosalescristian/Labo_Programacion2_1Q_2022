@@ -44,6 +44,16 @@ namespace Consola
             Console.WriteLine(gatito.Pensar()); // Independientemente de que son de tipo ANIMAL, usan el metodo de la instancia GATO
             Console.WriteLine(gatitoDos.Pensar()); // Independientemente de que son de tipo ANIMAL, usan el metodo de la instancia GATO
 
+            Console.WriteLine("----------------------------");
+            Console.WriteLine(" - OVERRIDE de EQUALS y GetHashCode /// Funciona como una 'sobrecarga' - ");
+            Console.WriteLine(" - Sobreescritura de Equivalencias - ");
+            
+            Animal gatoTres = new Gato();
+            gatoTres = gatoDos;
+
+            Console.WriteLine(gatoDos.Equals(gatoTres));
+
+
             Console.ReadKey();
         }
     }

@@ -17,5 +17,16 @@ namespace Biblioteca
         {
             return "Estoy pensando en dominar el mundo...";
         }
+
+        public static bool operator ==(Gato g1, Gato g2)
+        {
+            return g1 is not null && g2 is not null && g1.nombre == g2.nombre;
+        }
+
+        public static bool operator !=(Gato g1, Gato g2)
+        {
+            return !(g1 == g2);
+        }
+
     }
 }
