@@ -9,10 +9,14 @@ namespace Consola
         {
             Console.Title = "Clase 09: 28/04/2022 - Polimorfismo";
 
+            //La herencia no polimorfica se fija en el tipo de datos de la variable(Se resuelve en tiempo de compilacion)
+            //La herencia polimorfica se fija en la instancia ( se resuelve en tiempo de ejecucion)
             Animal animal = new Animal();
             Perro perro = new Perro();
             Gato gato = new Gato();
             Gatito gatito = new Gatito();
+            //La herencia se resuelve en tiempo de ejecucion (CLR) q elige los metodos que va a ejecutar
+            //El polimorfismo se resuelve en tiempo de ejecucion (CLR)
 
             Animal gatoDos = new Gato();
             Animal perroDos = new Perro();
@@ -29,7 +33,7 @@ namespace Consola
             Console.WriteLine(gatito.EmitirSonido());
             Console.WriteLine(gatitoDos.EmitirSonido());
 
-            Console.WriteLine(" - Herencia no Polimorfica (new) En los metodos de las clases derivadas - ");
+            Console.WriteLine(" - Herencia NO Polimorfica (new) En los metodos de las clases derivadas - ");
             
             Console.WriteLine(animal.Pensar());
             Console.WriteLine(perro.Pensar());
