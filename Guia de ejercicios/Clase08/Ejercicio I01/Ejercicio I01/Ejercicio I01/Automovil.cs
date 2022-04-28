@@ -11,13 +11,15 @@ namespace Ejercicio_I01
         private int cantidadPasajeros;
         private short cantidadMarchas;
 
+        public Automovil():base()
+        {
+            //Invoca a la base
+        }
         public Automovil(short cantidadRuedas, short cantidadPuertas, Colores color,
                 short cantidadMarchas, int cantidadPasajeros)
                 : base(cantidadRuedas, cantidadPuertas, color)
         {
-            this.CantidadRuedas = cantidadRuedas;
-            this.CantidadPuertas = cantidadPuertas;
-            this.Color = color;
+            //Solo inicializamos los atributos propios de la clase, los otros son heredados
             this.CantidadMarchas = cantidadMarchas;
             this.CantidadPasajeros = cantidadPasajeros;
         }

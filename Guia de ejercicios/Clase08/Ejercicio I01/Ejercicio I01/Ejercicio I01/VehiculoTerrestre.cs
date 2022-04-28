@@ -19,6 +19,11 @@ namespace Ejercicio_I01
         //private short cantidadMarchas; Estos dos atributos comentados, es xq no estan en todas las Clases
         //private int pesoCarga; Estos dos atributos comentados, es xq no estan en todas las Clases
 
+        public VehiculoTerrestre()
+        {
+            //siguen existiendo los constructores por defecto
+        }
+
         public VehiculoTerrestre(short cantidadRuedas, short cantidadPuertas, Colores color)//, short cantidadMarchas, int pesoCarga) X el comentario de arriba (VER ATRIBUTOS)
         {
             this.CantidadRuedas = cantidadRuedas;
@@ -58,5 +63,9 @@ namespace Ejercicio_I01
         //    set { pesoCarga = value; }
         //}
 
+        public string MostrarVehiculo(Automovil v)
+        {
+            return $"{v.CantidadPuertas}";
+        }
     }
 }

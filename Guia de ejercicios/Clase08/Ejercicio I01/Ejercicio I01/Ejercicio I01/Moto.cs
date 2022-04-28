@@ -6,13 +6,15 @@ namespace Ejercicio_I01
     {
         private short cilindrada;
 
+        public Moto() : base()
+        {
+            //Invoca a la base
+        }
         public Moto(short cantidadRuedas, short cantidadPuertas, Colores color,
                 short cilindrada)
                 : base(cantidadRuedas, cantidadPuertas, color)
         {
-            this.CantidadRuedas = cantidadRuedas;
-            this.CantidadPuertas = cantidadPuertas;
-            this.Color = color;
+            //solo se inicializan los atributos propios de la clase
             this.Cilindrada = cilindrada;
         }
 
