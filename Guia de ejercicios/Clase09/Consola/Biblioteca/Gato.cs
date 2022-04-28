@@ -9,6 +9,7 @@ namespace Biblioteca
     public class Gato : Animal
     {
         string juguetePreferido;
+        int id;
         public Gato(string nombre):base(nombre)
         {
 
@@ -43,6 +44,13 @@ namespace Biblioteca
                                      // si no lo puede convertir guarda NULL
                                      // AS es un operador (leer documentacion)
             return gato is not null && this == gato;
+        }
+
+        public override int GetHashCode()
+        {
+            //return nombre.GetHashCode();   
+            //return (nombre,juguetePreferido).GetHashCode();//compara por instancia en el nombre. Puede ser 1 atributo o una Tupla.
+            return id; // si tenemos un identificador unico por cada instancia
         }
 
 
