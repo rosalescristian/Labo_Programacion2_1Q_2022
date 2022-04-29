@@ -4,10 +4,10 @@ namespace Biblioteca
 {
     public class Sobrescrito
     {
-        public Sobrescrito()
-        {
-            this.miAtributo = "Probar abstractos";
-        }
+        //public Sobrescrito()
+        //{
+        //    this.miAtributo = "Probar abstractos";
+        //}
 
         public override string ToString()
         {
