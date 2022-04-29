@@ -12,11 +12,7 @@ namespace Biblioteca
         {
 
         }
-        public override string MiMetodo()
-        {
-            return MiPropiedad;
-        }
-
+        
         public override string MiPropiedad
         {
             get
@@ -24,5 +20,11 @@ namespace Biblioteca
                 return this.miAtributo;
             }
         }
+        
+        public override string MiMetodo()
+        {
+            return MiPropiedad;
+        }
+
     }
 }

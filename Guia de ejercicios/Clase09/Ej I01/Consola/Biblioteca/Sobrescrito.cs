@@ -10,7 +10,7 @@ namespace Biblioteca
         {
             this.miAtributo = "Probar abstractos";
         }
-
+        
         public abstract string MiPropiedad
         {
             get;
