@@ -8,6 +8,8 @@ namespace Biblioteca
 {
     public class PerroAbs : AnimalAbstracta
     {
+        protected string juegoFavorito;
+
         public PerroAbs(string nombre):base(nombre)
         {
 
@@ -17,7 +19,7 @@ namespace Biblioteca
         {
             get
             {
-                return "pelota";
+                return this.juegoFavorito;
             }
         }
 
