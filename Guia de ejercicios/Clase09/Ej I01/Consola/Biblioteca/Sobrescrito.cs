@@ -4,6 +4,11 @@ namespace Biblioteca
 {
     public class Sobrescrito
     {
+        public Sobrescrito()
+        {
+            this.miAtributo = "Probar abstractos";
+        }
+
         public override string ToString()
         {
             return $"Este es mi metodo ToString sobrescrito!";
@@ -28,5 +33,7 @@ namespace Biblioteca
         {
             return 1142510181;
         }
+
+
     }
 }
