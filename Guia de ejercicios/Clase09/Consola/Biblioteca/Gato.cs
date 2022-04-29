@@ -10,6 +10,7 @@ namespace Biblioteca
     {
         string juguetePreferido;
         int id;
+
         public Gato(string nombre):base(nombre)
         {
 

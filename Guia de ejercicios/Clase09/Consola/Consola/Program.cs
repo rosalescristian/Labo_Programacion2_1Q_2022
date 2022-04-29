@@ -48,7 +48,7 @@ namespace Consola
             Console.WriteLine(" - OVERRIDE de EQUALS y GetHashCode /// Funciona como una 'sobrecarga' - ");
             Console.WriteLine(" - Sobreescritura de Equivalencias - ");
             
-            Animal gatoTres = new Gato();
+            Animal gatoTres = new Gato("z");
             gatoTres = gatoDos;
 
             Console.WriteLine(gatoDos.Equals(gatoTres));

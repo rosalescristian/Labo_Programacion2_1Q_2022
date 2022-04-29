@@ -6,6 +6,10 @@ namespace Biblioteca
     {
         public string nombre;
 
+        public Animal()
+        {
+
+        }
         public Animal(string nombre)
         {
             this.nombre = nombre;   

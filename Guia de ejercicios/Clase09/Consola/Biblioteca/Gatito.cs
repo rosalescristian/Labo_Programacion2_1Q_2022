@@ -8,6 +8,11 @@ namespace Biblioteca
 {
     public class Gatito : Gato
     {
+        
+        public Gatito(string nombre) : base(nombre)
+        {
+
+        }
 
     }
 }
