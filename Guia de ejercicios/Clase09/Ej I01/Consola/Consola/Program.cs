@@ -8,7 +8,8 @@ namespace Consola
         static void Main(string[] args)
         {
             Console.Title = "Ejercicio Sobre-Sobrescrito";
-            Sobrescrito objetoSobrescrito = new Sobrescrito();
+            //Sobrescrito objetoSobrescrito = new Sobrescrito();
+            Sobrescrito objetoSobrescrito = new SobreSobrescrito();
 
             Console.WriteLine(objetoSobrescrito.ToString());
 
@@ -20,6 +21,10 @@ namespace Consola
 
             Console.WriteLine("----------------------------------------------");
             Console.WriteLine(objetoSobrescrito.GetHashCode());
+
+            Console.WriteLine("----------------------------------------------");
+            Console.WriteLine(objetoSobrescrito.MiPropiedad);
+            Console.WriteLine(objetoSobrescrito.MiMetodo());
 
             Console.ReadKey();
         }

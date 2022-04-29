@@ -2,31 +2,41 @@
 
 namespace Biblioteca
 {
-    public class Sobrescrito
+    public abstract class Sobrescrito
     {
-        //public Sobrescrito()
-        //{
-        //    this.miAtributo = "Probar abstractos";
-        //}
+        protected string miAtributo;
+
+        public Sobrescrito()
+        {
+            this.miAtributo = "Probar abstractos";
+        }
+
+        public abstract string MiPropiedad
+        {
+            get;
+        }
+
+        public abstract string MiMetodo();
 
         public override string ToString()
         {
             return $"Este es mi metodo ToString sobrescrito!";
         }
 
-        //public static bool operator ==(object a, object b)
-        //{
-        //    return a == b;
-        //}
+        public static bool operator ==(Sobrescrito a, Sobrescrito b)
+        {
+            return a == b;
+        }
 
-        //public static bool operator !=(object a, object b)
-        //{
-        //    return !(a == b);
-        //}
+        public static bool operator !=(Sobrescrito a, Sobrescrito b)
+        {
+            return !(a == b);
+        }
 
         public override bool Equals(object obj)
         {
-            return obj is not null && base.Equals(obj);
+            Sobrescrito sobrescrito = obj as Sobrescrito;
+            return sobrescrito is not null && this == sobrescrito;
         }
 
         public override int GetHashCode()
