@@ -7,12 +7,63 @@ namespace Clase06
 {
     internal class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// Funcion Criterio para sobrecargar List.SORT()
+        /// </summary>
+        /// <param name="a"></param>
+        /// <param name="b"></param>
+        /// <returns>Tiene q devolver un Nro Positivo, Nro Negativo o CERO</returns>
+        public static int Comparar(int a, int b)
+        {
+            return b - a; //Esto es para quede en orden DESCENDENTE si me da NEGATIVO
+        }
+
+        static void Main(string[] args)//Aca arranca el MAIN
         {
             //Main con Regiones, OJO
 
+            #region Ordenar una LIST
+
+            List<int> list = new List<int>()
+            {
+                4,78,2,54,36,5
+            };
+
+            Console.WriteLine("Muestra en el orden que fue cargada");
+            foreach (int item in list)
+            {
+                Console.WriteLine(item);
+            }
+
+            Console.WriteLine("-------------------------------");
+            Console.WriteLine("Muestro la lista en orden ascendente");
+
+            //Ordeno por defecto (ASCENDENTE)
+            list.Sort();
+            foreach (int item in list)
+            {
+                Console.WriteLine(item);
+            }
+
+            Console.WriteLine("-------------------------------");
+            Console.WriteLine("Muestro la lista en orden descendente");
+
+            //Ordeno por defecto (DESCENDENTE) con la Sobrecarga del metodo SORT
+            list.Sort(Program.Comparar); // sin () el llamado al metodo xq le paso el puntero
+            foreach (int item in list)
+            {
+                Console.WriteLine(item);
+            }
+
+            Console.ReadKey();
+            
+            #endregion
+
             //LIFO: Last IN - First OUT
             #region Stack - GENERICA
+
+            Console.WriteLine("-------------------------------");
+            Console.WriteLine("CARGO UN STACK");
 
             Stack<char> palabras = new Stack<char>();
             palabras.Push('H');
@@ -38,12 +89,14 @@ namespace Clase06
                 Console.WriteLine(letra);
             }
 
-
             Console.ReadKey();
 
             #endregion
             //FIFO: First In - First Out
             #region Queue - GENERICA
+
+            Console.WriteLine("-------------------------------");
+            Console.WriteLine("Cargo una Queue");
 
             //No esta indexada, solo se usan para una cola. Tamaño dinamico
             Queue<Persona> colaDeAtencion = new Queue<Persona>();
