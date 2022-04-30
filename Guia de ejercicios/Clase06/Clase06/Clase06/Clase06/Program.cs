@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Threading;
 
 namespace Clase06
 {
@@ -9,6 +10,70 @@ namespace Clase06
         static void Main(string[] args)
         {
             //Main con Regiones, OJO
+
+            //LIFO: Last IN - First OUT
+            #region Stack - GENERICA
+
+            Stack<char> palabras = new Stack<char>();
+            palabras.Push('H');
+            palabras.Push('O');
+            palabras.Push('L');
+            palabras.Push('A');
+            palabras.Push(' ');
+            palabras.Push('M');
+            palabras.Push('U');
+            palabras.Push('N');
+            palabras.Push('D');
+            palabras.Push('O');
+
+            //Elimino el ULTIMO
+            palabras.Pop();
+
+            //Veo el ANTE-ULTIMO
+            Console.WriteLine(palabras.Peek());
+
+            //Recorro y muestro. Es orden LIFO
+            foreach (char letra in palabras)
+            {
+                Console.WriteLine(letra);
+            }
+
+
+            Console.ReadKey();
+
+            #endregion
+            //FIFO: First In - First Out
+            #region Queue - GENERICA
+
+            //No esta indexada, solo se usan para una cola. Tamaño dinamico
+            Queue<Persona> colaDeAtencion = new Queue<Persona>();
+            colaDeAtencion.Enqueue(new Persona("Roberto"));
+            colaDeAtencion.Enqueue(new Persona("Juan"));
+            colaDeAtencion.Enqueue(new Persona("Agustin"));
+            colaDeAtencion.Enqueue(new Persona("Soledad"));
+
+            Console.WriteLine("Recoro y Muestro en orden FIFO");
+            foreach (Persona p in colaDeAtencion)
+            {
+                Console.WriteLine(p.nombre);
+            }
+
+            Console.WriteLine("-------------------------------");
+            Console.WriteLine("Muestro SIEMPRE al PRIMERO");
+            Console.WriteLine(colaDeAtencion.Peek().nombre);
+
+
+            Console.WriteLine("-------------------------------");
+            Console.WriteLine("Muestro y elimino");
+            while(colaDeAtencion.Count > 0)
+            {
+                Console.WriteLine($"Atendiendo a: {colaDeAtencion.Dequeue().nombre}");
+                Thread.Sleep(2000);
+            }
+
+            Console.ReadKey();
+
+            #endregion
 
             // Se ordenan en funcion de la Key
             #region Dictionary - GENERICA - (Key,Value)
@@ -20,6 +85,7 @@ namespace Clase06
             comidasLatinoamericanas.Add("ceviche", "Peru");
             comidasLatinoamericanas.Add("causa limeña", "Peru");
             comidasLatinoamericanas.Add("choripan", "Argentina");
+            comidasLatinoamericanas.Add("empanadas", "Argentina");
 
             Console.WriteLine("------------------------------");
             Console.WriteLine("Recorro el Key Value Pair");
@@ -43,11 +109,12 @@ namespace Clase06
             }
 
             Console.WriteLine("------------------------------");
-            Console.WriteLine("Indexazion en base a la key");
+            Console.WriteLine("Indexacion en base a la key");
             Console.WriteLine($"Mole pertenece a: {comidasLatinoamericanas["mole poblano"]}");
 
             Console.WriteLine($"Contiene Empanadas? {comidasLatinoamericanas.ContainsKey("empanadas")}");
             Console.WriteLine($"Contiene Empanadas? {comidasLatinoamericanas.ContainsValue("Argentina")}");
+
 
 
             Console.ReadKey();

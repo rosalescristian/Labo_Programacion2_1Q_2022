@@ -8,7 +8,7 @@ namespace Clase06
 {
     public class Persona
     {
-        string nombre;
+        public string nombre;
 
         public Persona(string nombre)
         {
