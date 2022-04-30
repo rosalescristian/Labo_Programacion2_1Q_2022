@@ -1,0 +1,16 @@
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase07\Clase07\Clase07\bin\Debug\net5.0\Clase07.exe
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase07\Clase07\Clase07\bin\Debug\net5.0\Clase07.deps.json
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase07\Clase07\Clase07\bin\Debug\net5.0\Clase07.runtimeconfig.json
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase07\Clase07\Clase07\bin\Debug\net5.0\Clase07.runtimeconfig.dev.json
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase07\Clase07\Clase07\bin\Debug\net5.0\Clase07.dll
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase07\Clase07\Clase07\bin\Debug\net5.0\Clase07.pdb
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase07\Clase07\Clase07\obj\Debug\net5.0\Clase07.csproj.AssemblyReference.cache
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase07\Clase07\Clase07\obj\Debug\net5.0\Clase07.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase07\Clase07\Clase07\obj\Debug\net5.0\Clase07.AssemblyInfoInputs.cache
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase07\Clase07\Clase07\obj\Debug\net5.0\Clase07.AssemblyInfo.cs
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase07\Clase07\Clase07\obj\Debug\net5.0\Clase07.csproj.CoreCompileInputs.cache
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase07\Clase07\Clase07\obj\Debug\net5.0\Clase07.dll
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase07\Clase07\Clase07\obj\Debug\net5.0\refint\Clase07.dll
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase07\Clase07\Clase07\obj\Debug\net5.0\Clase07.pdb
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase07\Clase07\Clase07\obj\Debug\net5.0\Clase07.genruntimeconfig.cache
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase07\Clase07\Clase07\obj\Debug\net5.0\ref\Clase07.dll

@@ -6,8 +6,16 @@ namespace Clase07
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
 
+            Jugadores j = new Jugadores("Fede", 10, 2);
+            //Jugadores j = new Jugadores("Cristian", 10, 2);
+            //Jugadores j = new Jugadores("Fede", 10, 2);
+
+            j.PartidosJugados = 20;
+
+            Console.WriteLine(j.Nombre);
+            Console.WriteLine(j.PartidosJugados);
+            Console.WriteLine(j.PromedioDeGoles);
 
 
 
