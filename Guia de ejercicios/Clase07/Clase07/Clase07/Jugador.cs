@@ -14,8 +14,9 @@ namespace Clase07
     {
         Argentina, Peru
     }
-    internal class Jugadores
+    internal class Jugador
     {
+        //Esta comentado este Enumerado porque lo mudè fuera de la clase
         //public enum EColor
         //{
         //    Rojo, Azul, Verde
@@ -25,6 +26,19 @@ namespace Clase07
         private int partidosJugados;
         private int totalGoles;
         private EColor colorCamiseta;
+        string[] equipos;
+
+        public string this[int index]
+        {
+            get
+            {
+                return equipos[index];
+            }
+            set
+            {
+                equipos[index] = value;
+            }
+        }
 
         public EColor Color
         {
@@ -76,11 +90,15 @@ namespace Clase07
         }
 
 
-        public Jugadores(string nombre, int partidosJugados, int totalGoles)
+        public Jugador(string nombre, int partidosJugados, int totalGoles)
         {
             this.nombre = nombre;
             this.partidosJugados = partidosJugados;
             this.totalGoles = totalGoles;
+            this.equipos = new string[3];
+            this.equipos[0]= "A";
+            this.equipos[0]= "B";
+            this.equipos[0]= "C";
         }
     }
 }
