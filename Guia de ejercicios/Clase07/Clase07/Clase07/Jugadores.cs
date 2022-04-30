@@ -6,11 +6,37 @@ using System.Threading.Tasks;
 
 namespace Clase07
 {
+    public enum EColor
+    {
+        Rojo, Azul, Verde, Amarillo
+    }
+    public enum ENacionalidad
+    {
+        Argentina, Peru
+    }
     internal class Jugadores
     {
+        //public enum EColor
+        //{
+        //    Rojo, Azul, Verde
+        //}
+
         private string nombre;
         private int partidosJugados;
         private int totalGoles;
+        private EColor colorCamiseta;
+
+        public EColor Color
+        {
+            get
+            {
+                return this.colorCamiseta;
+            }
+            set
+            {
+                this.colorCamiseta = value;
+            }
+        }
 
         public string Nombre
         {

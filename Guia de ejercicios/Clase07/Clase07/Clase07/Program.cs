@@ -16,8 +16,19 @@ namespace Clase07
             Console.WriteLine(j.Nombre);
             Console.WriteLine(j.PartidosJugados);
             Console.WriteLine(j.PromedioDeGoles);
+            Console.WriteLine(j.Color);
+            
 
+            j.Color = (EColor)new Random().Next(0, 4);
 
+            Console.WriteLine(j.Color);
+
+            //El enumerado color estaba dentro de la clase Jugadores
+            //j.Color = Jugadores.EColor.Rojo;
+
+            //El enumerado esta fuera de la clase y lo puedo consultar de cualquier lado
+            j.Color = EColor.Rojo;
+            j.Color = (EColor)33;
 
             Console.ReadKey();
         }
