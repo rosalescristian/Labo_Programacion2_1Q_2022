@@ -1,0 +1,5 @@
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Centralita\CentralTelefonica\Centralita\obj\Debug\net5.0\Centralita.csproj.AssemblyReference.cache
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Centralita\CentralTelefonica\Centralita\obj\Debug\net5.0\Centralita.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Centralita\CentralTelefonica\Centralita\obj\Debug\net5.0\Centralita.AssemblyInfoInputs.cache
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Centralita\CentralTelefonica\Centralita\obj\Debug\net5.0\Centralita.AssemblyInfo.cs
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Centralita\CentralTelefonica\Centralita\obj\Debug\net5.0\Centralita.csproj.CoreCompileInputs.cache

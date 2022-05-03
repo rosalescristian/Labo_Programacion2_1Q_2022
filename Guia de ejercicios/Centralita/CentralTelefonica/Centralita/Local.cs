@@ -6,7 +6,41 @@ using System.Threading.Tasks;
 
 namespace Centralita
 {
-    internal class Local
+    public class Local : Llamada
     {
+        protected float costo;
+
+        public Local(Llamada llamada, float costo): base(duracion, nroDestino, nroOrigen)
+        {
+
+        }
+        public Local(float costo) : base (duracion,nroDestino,nroOrigen)
+        {
+            this.costo = costo;
+        }
+
+        /// <summary>
+        /// Propiedad Costo Llamada. ReadOnly
+        /// </summary>
+        public float CostoLlamada
+        {
+            get
+            {
+                return this.costo;
+            }
+        }
+
+        private float CalcularCosto()
+        {
+            return 0;
+        }
+
+        public new string Mostrar()
+        {
+            StringBuilder sb = new StringBuilder();
+            return sb.ToString();   
+        }
+
+
     }
 }

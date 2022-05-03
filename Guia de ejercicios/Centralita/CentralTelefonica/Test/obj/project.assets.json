@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "Centralita/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Centralita.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Centralita.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Centralita/1.0.0": {
+      "type": "project",
+      "path": "../Centralita/Centralita.csproj",
+      "msbuildProject": "../Centralita/Centralita.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "Centralita >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\crisp\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Centralita\\CentralTelefonica\\Centralita\\Centralita.csproj": {
+              "projectPath": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Centralita\\CentralTelefonica\\Centralita\\Centralita.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
