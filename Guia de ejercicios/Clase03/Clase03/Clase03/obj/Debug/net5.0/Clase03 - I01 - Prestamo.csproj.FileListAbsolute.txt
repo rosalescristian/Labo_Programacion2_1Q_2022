@@ -1,0 +1,19 @@
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase03\bin\Debug\net5.0\Clase03 - I01 - Prestamo.exe
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase03\bin\Debug\net5.0\Clase03 - I01 - Prestamo.deps.json
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase03\bin\Debug\net5.0\Clase03 - I01 - Prestamo.runtimeconfig.json
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase03\bin\Debug\net5.0\Clase03 - I01 - Prestamo.runtimeconfig.dev.json
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase03\bin\Debug\net5.0\Clase03 - I01 - Prestamo.dll
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase03\bin\Debug\net5.0\Clase03 - I01 - Prestamo.pdb
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase03\bin\Debug\net5.0\Biblioteca.dll
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase03\bin\Debug\net5.0\Biblioteca.pdb
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase03\obj\Debug\net5.0\Clase03 - I01 - Prestamo.csproj.AssemblyReference.cache
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase03\obj\Debug\net5.0\Clase03 - I01 - Prestamo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase03\obj\Debug\net5.0\Clase03 - I01 - Prestamo.AssemblyInfoInputs.cache
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase03\obj\Debug\net5.0\Clase03 - I01 - Prestamo.AssemblyInfo.cs
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase03\obj\Debug\net5.0\Clase03 - I01 - Prestamo.csproj.CoreCompileInputs.cache
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase03\obj\Debug\net5.0\Clase03 - I01 - Prestamo.csproj.CopyComplete
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase03\obj\Debug\net5.0\Clase03 - I01 - Prestamo.dll
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase03\obj\Debug\net5.0\refint\Clase03 - I01 - Prestamo.dll
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase03\obj\Debug\net5.0\Clase03 - I01 - Prestamo.pdb
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase03\obj\Debug\net5.0\Clase03 - I01 - Prestamo.genruntimeconfig.cache
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase03\obj\Debug\net5.0\ref\Clase03 - I01 - Prestamo.dll

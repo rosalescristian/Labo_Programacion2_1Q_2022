@@ -17,3 +17,22 @@ D:\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ej
 D:\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase 03 - I04 - Inv Arg\obj\Debug\net5.0\Clase 03 - I04 - Inv Arg.pdb
 D:\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase 03 - I04 - Inv Arg\obj\Debug\net5.0\Clase 03 - I04 - Inv Arg.genruntimeconfig.cache
 D:\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase 03 - I04 - Inv Arg\obj\Debug\net5.0\ref\Clase 03 - I04 - Inv Arg.dll
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase 03 - I04 - Inv Arg\bin\Debug\net5.0\Clase 03 - I04 - Inv Arg.exe
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase 03 - I04 - Inv Arg\bin\Debug\net5.0\Clase 03 - I04 - Inv Arg.deps.json
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase 03 - I04 - Inv Arg\bin\Debug\net5.0\Clase 03 - I04 - Inv Arg.runtimeconfig.json
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase 03 - I04 - Inv Arg\bin\Debug\net5.0\Clase 03 - I04 - Inv Arg.runtimeconfig.dev.json
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase 03 - I04 - Inv Arg\bin\Debug\net5.0\Clase 03 - I04 - Inv Arg.dll
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase 03 - I04 - Inv Arg\bin\Debug\net5.0\Clase 03 - I04 - Inv Arg.pdb
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase 03 - I04 - Inv Arg\bin\Debug\net5.0\Biblioteca.dll
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase 03 - I04 - Inv Arg\bin\Debug\net5.0\Biblioteca.pdb
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase 03 - I04 - Inv Arg\obj\Debug\net5.0\Clase 03 - I04 - Inv Arg.csproj.AssemblyReference.cache
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase 03 - I04 - Inv Arg\obj\Debug\net5.0\Clase 03 - I04 - Inv Arg.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase 03 - I04 - Inv Arg\obj\Debug\net5.0\Clase 03 - I04 - Inv Arg.AssemblyInfoInputs.cache
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase 03 - I04 - Inv Arg\obj\Debug\net5.0\Clase 03 - I04 - Inv Arg.AssemblyInfo.cs
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase 03 - I04 - Inv Arg\obj\Debug\net5.0\Clase 03 - I04 - Inv Arg.csproj.CoreCompileInputs.cache
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase 03 - I04 - Inv Arg\obj\Debug\net5.0\Clase 03 - I04 - Inv Arg.csproj.CopyComplete
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase 03 - I04 - Inv Arg\obj\Debug\net5.0\Clase 03 - I04 - Inv Arg.dll
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase 03 - I04 - Inv Arg\obj\Debug\net5.0\refint\Clase 03 - I04 - Inv Arg.dll
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase 03 - I04 - Inv Arg\obj\Debug\net5.0\Clase 03 - I04 - Inv Arg.pdb
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase 03 - I04 - Inv Arg\obj\Debug\net5.0\Clase 03 - I04 - Inv Arg.genruntimeconfig.cache
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase03\Clase03\Clase 03 - I04 - Inv Arg\obj\Debug\net5.0\ref\Clase 03 - I04 - Inv Arg.dll
