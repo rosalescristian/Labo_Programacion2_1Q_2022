@@ -10,9 +10,9 @@ namespace Centralita
     {
         protected float costo;
 
-        public Local(Llamada llamada, float costo): base(duracion, nroDestino, nroOrigen)
+        public Local(Llamada llamada, float costo)
         {
-
+            this.costo = costo;
         }
         public Local(float costo) : base (duracion,nroDestino,nroOrigen)
         {
