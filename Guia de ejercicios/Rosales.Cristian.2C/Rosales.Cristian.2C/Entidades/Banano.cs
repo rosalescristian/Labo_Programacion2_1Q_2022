@@ -6,7 +6,41 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    internal class Banano
+    public  class Banano : Planta
     {
+        private string codigo;
+
+        public Banano(string nombre, int tamanio, string codigo) : base(nombre, tamanio)
+        {
+            this.codigo = codigo;
+        }
+
+        public override bool TieneFlores
+        {
+            get
+            {
+                return true;
+            }
+        }
+
+        public override bool TieneFruto
+        {
+            get
+            {
+                return true;
+            }
+        }
+
+        public override string ResumenDeDatos()
+        {
+            StringBuilder sb = new StringBuilder();
+
+            sb.AppendLine(base.ResumenDeDatos());
+            sb.AppendLine($"Codigo Internacional: {this.codigo}");
+            
+            return sb.ToString();
+        }
+
+        
     }
 }

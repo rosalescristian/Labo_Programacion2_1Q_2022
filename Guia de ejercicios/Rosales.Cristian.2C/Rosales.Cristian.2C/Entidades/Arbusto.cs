@@ -6,7 +6,30 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    internal class Arbusto
+    public class Arbusto : Planta
     {
+        public override bool TieneFlores
+        {
+            get
+            {
+                return false;
+            }
+        }
+        
+        public override bool TieneFruto
+        {
+            get
+            {
+                return false;
+            }
+        }
+
+        public Arbusto(string nombre, int tamanio) 
+                        : base(nombre, tamanio)
+        {
+
+        }
+
+
     }
 }
