@@ -8,58 +8,69 @@ namespace Entidades
 {
     public class Jardin
     {
-        public enum ETipo
+        public enum Tipo
         {
             Terrozo, Arenozo
         }
         
         private int espacioTotal;
         private List<Planta> plantas;
-        private ETipo tipo;
+        private static Tipo suelo; //el atributo es Estatico, ojo con el enunciado.
 
-        private int myVar;
-
-        public ETipo TipoSuelo
+        static Jardin()// constructor estatico, OJO!
         {
-            set
-            { 
-                this.tipo = value;
-            }
-        }
-
-        private int EspacioOcupado()
-        {
-            return 0;
-        }
-
-        private int EspacioOcupado(Planta planta)
-        {
-            return 0;
+            Jardin.suelo = Jardin.Tipo.Terrozo;
         }
 
         private Jardin()
         {
-
+            this.plantas = new List<Planta>();
         }
 
-        private Jardin()
-        {
-
-        }
-
-        public Jardin(int espacioTotal)
+        public Jardin(int espacioTotal) : this() //llama al constructor Privado para instanciar la lista de plantas!
         {
             this.espacioTotal = espacioTotal;
         }
 
+        private int EspacioOcupado()
+        {
+            int espacioTotalOcupado = 0;
+            foreach(Planta p in this.plantas)
+            {
+                espacioTotalOcupado += p.Tamanio;
+            }
+            return espacioTotalOcupado;
+        }
+
+        private int EspacioOcupado(Planta planta)
+        {
+            return this.EspacioOcupado() + planta.Tamanio;
+        }
+
         public static bool operator +(Jardin jardin, Planta planta)
         {
-            return true;
+            if(planta is not null && jardin is not null && jardin.espacioTotal >= jardin.EspacioOcupado(planta))
+            {
+                jardin.plantas.Add(planta);
+                return true;
+            }
+            return false;
         }
 
         public override string ToString()
         {
-            return base.ToString();
+            StringBuilder sb = new StringBuilder();
+
+            sb.AppendLine($"Composicion del jardin {Jardin.suelo}");
+            sb.AppendLine($"Espacio ocupado {this.EspacioOcupado()} de {this.espacioTotal}");
+            sb.AppendLine($"LISTA DE PLANTAS: ");
+
+            foreach(Planta p in this.plantas)
+            {
+                sb.AppendLine(p.ResumenDeDatos());
+            }
+
+            return sb.ToString();
         }
 
 
