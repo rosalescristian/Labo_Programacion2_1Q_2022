@@ -1,0 +1,12 @@
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\RepasoParcial1 - El Dispositivo\RosalesCristian2C\RosalesCristian2C\bin\Debug\net5.0\RosalesCristian2C.deps.json
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\RepasoParcial1 - El Dispositivo\RosalesCristian2C\RosalesCristian2C\bin\Debug\net5.0\RosalesCristian2C.dll
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\RepasoParcial1 - El Dispositivo\RosalesCristian2C\RosalesCristian2C\bin\Debug\net5.0\RosalesCristian2C.pdb
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\RepasoParcial1 - El Dispositivo\RosalesCristian2C\RosalesCristian2C\obj\Debug\net5.0\RosalesCristian2C.csproj.AssemblyReference.cache
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\RepasoParcial1 - El Dispositivo\RosalesCristian2C\RosalesCristian2C\obj\Debug\net5.0\RosalesCristian2C.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\RepasoParcial1 - El Dispositivo\RosalesCristian2C\RosalesCristian2C\obj\Debug\net5.0\RosalesCristian2C.AssemblyInfoInputs.cache
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\RepasoParcial1 - El Dispositivo\RosalesCristian2C\RosalesCristian2C\obj\Debug\net5.0\RosalesCristian2C.AssemblyInfo.cs
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\RepasoParcial1 - El Dispositivo\RosalesCristian2C\RosalesCristian2C\obj\Debug\net5.0\RosalesCristian2C.csproj.CoreCompileInputs.cache
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\RepasoParcial1 - El Dispositivo\RosalesCristian2C\RosalesCristian2C\obj\Debug\net5.0\RosalesCristian2C.dll
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\RepasoParcial1 - El Dispositivo\RosalesCristian2C\RosalesCristian2C\obj\Debug\net5.0\refint\RosalesCristian2C.dll
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\RepasoParcial1 - El Dispositivo\RosalesCristian2C\RosalesCristian2C\obj\Debug\net5.0\RosalesCristian2C.pdb
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\RepasoParcial1 - El Dispositivo\RosalesCristian2C\RosalesCristian2C\obj\Debug\net5.0\ref\RosalesCristian2C.dll

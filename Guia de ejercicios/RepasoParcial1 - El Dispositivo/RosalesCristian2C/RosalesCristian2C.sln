@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RosalesCristian2C", "RosalesCristian2C\RosalesCristian2C.csproj", "{656A0501-FFF5-4C37-B045-7B22CD574851}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormPrincipal", "FormPrincipal\FormPrincipal.csproj", "{812C2D3A-8452-4F59-A7C5-244ABBD2A21D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{656A0501-FFF5-4C37-B045-7B22CD574851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{656A0501-FFF5-4C37-B045-7B22CD574851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{656A0501-FFF5-4C37-B045-7B22CD574851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{656A0501-FFF5-4C37-B045-7B22CD574851}.Release|Any CPU.Build.0 = Release|Any CPU
+		{812C2D3A-8452-4F59-A7C5-244ABBD2A21D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{812C2D3A-8452-4F59-A7C5-244ABBD2A21D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{812C2D3A-8452-4F59-A7C5-244ABBD2A21D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{812C2D3A-8452-4F59-A7C5-244ABBD2A21D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD423366-A233-4D61-AF67-28ACFF056FD3}
+	EndGlobalSection
+EndGlobal
