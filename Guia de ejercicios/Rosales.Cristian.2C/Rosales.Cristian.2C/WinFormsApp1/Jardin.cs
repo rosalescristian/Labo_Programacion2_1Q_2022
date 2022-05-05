@@ -11,11 +11,11 @@ using Entidades;
 
 namespace WinFormsApp1
 {
-    public partial class Form1 : Form
+    public partial class Jardin : Form
     {
-        private Jardin jardin;
+        private Entidades.Jardin jardin;
 
-        public Form1()
+        public Jardin()
         {
             InitializeComponent();
         }
@@ -27,8 +27,8 @@ namespace WinFormsApp1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            this.jardin = new Jardin(100);
-            this.jardin = new Jardin(100);
+            this.jardin = new Entidades.Jardin(100);
+            this.jardin = new Entidades.Jardin(100);
             bool pudo = this.jardin + new Arbusto("Arbusto 1", 10);
             pudo = this.jardin + new Arbusto("Arbusto 2", 15);
             pudo = this.jardin + new Rosal("Rosa 1", 20, Rosal.Color.Amarilla);

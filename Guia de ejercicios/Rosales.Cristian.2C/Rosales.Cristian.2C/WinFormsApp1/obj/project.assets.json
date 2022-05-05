@@ -32,9 +32,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Rosales.Cristian.2C\\Rosales.Cristian.2C\\WinFormsApp1\\WinFormsApp1.csproj",
-      "projectName": "WinFormsApp1",
-      "projectPath": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Rosales.Cristian.2C\\Rosales.Cristian.2C\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectUniqueName": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Rosales.Cristian.2C\\Rosales.Cristian.2C\\WinFormsApp1\\MiJardin.csproj",
+      "projectName": "MiJardin",
+      "projectPath": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Rosales.Cristian.2C\\Rosales.Cristian.2C\\WinFormsApp1\\MiJardin.csproj",
       "packagesPath": "C:\\Users\\crisp\\.nuget\\packages\\",
       "outputPath": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Rosales.Cristian.2C\\Rosales.Cristian.2C\\WinFormsApp1\\obj\\",
       "projectStyle": "PackageReference",

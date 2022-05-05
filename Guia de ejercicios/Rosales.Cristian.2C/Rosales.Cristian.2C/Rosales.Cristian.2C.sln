@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{E9002220-3B2A-4F06-A111-7AE786F2B6CC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiJardin", "WinFormsApp1\MiJardin.csproj", "{E9002220-3B2A-4F06-A111-7AE786F2B6CC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{E0834493-564C-4981-837B-A221E0D0EC00}"
 EndProject
