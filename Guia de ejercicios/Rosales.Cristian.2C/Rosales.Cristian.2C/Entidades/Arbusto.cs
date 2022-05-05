@@ -8,6 +8,9 @@ namespace Entidades
 {
     public class Arbusto : Planta
     {
+        /// <summary>
+        /// Propiedad TieneFlores. ReadOnly
+        /// </summary>
         public override bool TieneFlores
         {
             get
@@ -15,7 +18,10 @@ namespace Entidades
                 return false;
             }
         }
-        
+
+        /// <summary>
+        /// Propiedad TieneFruto. ReadOnly
+        /// </summary>
         public override bool TieneFruto
         {
             get
@@ -24,6 +30,11 @@ namespace Entidades
             }
         }
 
+        /// <summary>
+        /// Constructor con parametros q llama a la base.
+        /// </summary>
+        /// <param name="nombre"></param>
+        /// <param name="tamanio"></param>
         public Arbusto(string nombre, int tamanio) 
                         : base(nombre, tamanio)
         {

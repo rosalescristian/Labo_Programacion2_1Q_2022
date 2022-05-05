@@ -15,16 +15,29 @@ namespace Entidades
         
         private Color florColor;
 
+        /// <summary>
+        /// Constructor con parametros. Reutiliza el otro constructor
+        /// </summary>
+        /// <param name="nombre"></param>
+        /// <param name="tamanio"></param>
         public Rosal(string nombre, int tamanio) : this(nombre, tamanio, Color.Rosa)
         {
             
         }
 
+        /// <summary>
+        /// Constructor con parametros.
+        /// </summary>
+        /// <param name="nombre"></param>
+        /// <param name="tamanio"></param>
         public Rosal(string nombre, int tamanio, Color flor) : base(nombre, tamanio)
         {
             this.florColor = flor;
         }
 
+        /// <summary>
+        /// Propiedad TieneFlores. ReadOnly
+        /// </summary>
         public override bool TieneFlores
         {
             get
@@ -33,6 +46,9 @@ namespace Entidades
             }
         }
 
+        /// <summary>
+        /// Propiedad TieneFruto. ReadOnly
+        /// </summary>
         public override bool TieneFruto
         {
             get
@@ -41,6 +57,10 @@ namespace Entidades
             }
         }
 
+        /// <summary>
+        /// Muestra el resumen de datos de Rosales
+        /// </summary>
+        /// <returns>STRING. Los datos de PLANTA + Rosal</returns>
         public override string ResumenDeDatos()
         {
             StringBuilder sb = new StringBuilder();
