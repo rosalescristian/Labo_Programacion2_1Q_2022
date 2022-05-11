@@ -9,7 +9,7 @@ namespace Entidades
     public class PersonalMedico : Persona
     {
         private List<Consulta> consultas;
-        private bool esRecidente;
+        private bool esResidente;
 
         /// <summary>
         /// Constructor con Parametros, se alimenta de la clase base
@@ -18,13 +18,13 @@ namespace Entidades
         /// <param name="nombre"></param>
         /// <param name="nacimiento"></param>
         /// <param name="consultas"></param>
-        /// <param name="esRecidente"></param>
+        /// <param name="esResidente"></param>
         public PersonalMedico(string nombre, string apellido, 
-                            DateTime nacimiento, bool esRecidente)
+                            DateTime nacimiento, bool esResidente)
                             : base(nombre, apellido, nacimiento)
         {
             this.consultas = new List<Consulta>();
-            this.esRecidente = esRecidente;
+            this.esResidente = esResidente;
         }
 
         /// <summary>
@@ -36,11 +36,14 @@ namespace Entidades
             StringBuilder sb = new StringBuilder();
 
             sb.AppendLine(String.Format("¿Finalizo Residencia? {0}", 
-                            this.esRecidente ? "SI" : "NO"));
+                            this.esResidente ? "SI" : "NO"));
             sb.AppendLine($"ATENCIONES: ");
             foreach(Consulta consulta in consultas)
             {
-                sb.AppendLine($"{consulta.ToString()}");
+                Persona auxPersona = (Persona)consulta.Paciente;
+                sb.Append($"{auxPersona.FichaPersonal(auxPersona)}");
+                sb.Append($"{consulta.Paciente.FichaExtra()}");
+                sb.Append($"{consulta.ToString()}");
             }
             return sb.ToString();
         }

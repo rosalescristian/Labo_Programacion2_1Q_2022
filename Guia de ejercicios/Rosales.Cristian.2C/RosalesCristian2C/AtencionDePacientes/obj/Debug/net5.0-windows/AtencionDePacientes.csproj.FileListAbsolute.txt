@@ -7,7 +7,6 @@ D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia
 D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C\RosalesCristian2C\AtencionDePacientes\bin\Debug\net5.0-windows\Entidades.dll
 D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C\RosalesCristian2C\AtencionDePacientes\bin\Debug\net5.0-windows\Entidades.pdb
 D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C\RosalesCristian2C\AtencionDePacientes\obj\Debug\net5.0-windows\AtencionDePacientes.csproj.AssemblyReference.cache
-D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C\RosalesCristian2C\AtencionDePacientes\obj\Debug\net5.0-windows\AtencionDePacientes.Form1.resources
 D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C\RosalesCristian2C\AtencionDePacientes\obj\Debug\net5.0-windows\AtencionDePacientes.csproj.GenerateResource.cache
 D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C\RosalesCristian2C\AtencionDePacientes\obj\Debug\net5.0-windows\AtencionDePacientes.GeneratedMSBuildEditorConfig.editorconfig
 D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C\RosalesCristian2C\AtencionDePacientes\obj\Debug\net5.0-windows\AtencionDePacientes.AssemblyInfoInputs.cache
@@ -19,3 +18,4 @@ D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia
 D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C\RosalesCristian2C\AtencionDePacientes\obj\Debug\net5.0-windows\AtencionDePacientes.pdb
 D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C\RosalesCristian2C\AtencionDePacientes\obj\Debug\net5.0-windows\AtencionDePacientes.genruntimeconfig.cache
 D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C\RosalesCristian2C\AtencionDePacientes\obj\Debug\net5.0-windows\ref\AtencionDePacientes.dll
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C\RosalesCristian2C\AtencionDePacientes\obj\Debug\net5.0-windows\AtencionDePacientes.FrmAtencion.resources

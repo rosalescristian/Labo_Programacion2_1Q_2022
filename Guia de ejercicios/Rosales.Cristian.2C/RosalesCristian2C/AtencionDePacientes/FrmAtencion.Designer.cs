@@ -1,6 +1,6 @@
 ﻿namespace AtencionDePacientes
 {
-    partial class Form1
+    partial class FrmAtencion
     {
         /// <summary>
         ///  Required designer variable.
@@ -83,6 +83,7 @@
             this.lstMedicos.Name = "lstMedicos";
             this.lstMedicos.Size = new System.Drawing.Size(281, 244);
             this.lstMedicos.TabIndex = 4;
+            this.lstMedicos.SelectedIndexChanged += new System.EventHandler(this.lstMedicos_SelectedIndexChanged);
             // 
             // lstPacientes
             // 
@@ -101,7 +102,7 @@
             this.rtbInfoMedico.TabIndex = 6;
             this.rtbInfoMedico.Text = "";
             // 
-            // Form1
+            // FrmAtencion
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -113,11 +114,11 @@
             this.Controls.Add(this.lblMedicos);
             this.Controls.Add(this.btnSalir);
             this.Controls.Add(this.btnAtender);
-            this.Name = "Form1";
+            this.Name = "FrmAtencion";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "RosalesCristian2C";
-            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FrmAtencion_FormClosing);
+            this.Load += new System.EventHandler(this.FrmAtencion_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

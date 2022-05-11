@@ -33,7 +33,7 @@ namespace Entidades
         {
             StringBuilder sb = new StringBuilder();
             
-            sb.AppendLine($"Recide en: {this.barrioRecidencia}");
+            sb.AppendLine($"Reside en: {this.barrioResidencia}");
             sb.AppendLine($"{this.Diagnostico}");
             
             return sb.ToString();

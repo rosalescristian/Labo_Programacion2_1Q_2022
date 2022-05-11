@@ -7,7 +7,7 @@ namespace Entidades
     {
         protected string apellido;
         protected string nombre;
-        protected string barrioRecidencia;
+        protected string barrioResidencia;
         protected DateTime nacimiento;
 
         /// <summary>
@@ -15,14 +15,14 @@ namespace Entidades
         /// </summary>
         /// <param name="apellido"></param>
         /// <param name="nombre"></param>
-        /// <param name="barrioRecidencia"></param>
+        /// <param name="barrioResidencia"></param>
         /// <param name="nacimiento"></param>
         protected Persona(string nombre, string apellido, 
-                            DateTime nacimiento, string barrioRecidencia)
+                            DateTime nacimiento, string barrioResidencia)
         {
             this.apellido = apellido;
             this.nombre = nombre;
-            this.barrioRecidencia = barrioRecidencia;
+            this.barrioResidencia = barrioResidencia;
             this.nacimiento = nacimiento;
         }
 
@@ -31,7 +31,7 @@ namespace Entidades
         /// </summary>
         /// <param name="apellido"></param>
         /// <param name="nombre"></param>
-        /// <param name="barrioRecidencia"></param>
+        /// <param name="barrioResidencia"></param>
         /// <param name="nacimiento"></param>
         protected Persona(string nombre, string apellido, DateTime nacimiento)
         {
@@ -74,7 +74,11 @@ namespace Entidades
         }
 
         /// <summary>
-        /// Devuelve todos los datos de la persona instanciada
+        /// Devuelve todos los datos de la persona instanciada:
+        /// Nombre Completo
+        /// Edad
+        /// Barrio de Residencia
+        /// Fecha de Nacimiento
         /// </summary>
         /// <param name="p">Persona a buscar sus datos</param>
         /// <returns>STRING </returns>
@@ -84,9 +88,16 @@ namespace Entidades
             
             sb.AppendLine($"{this.ToString()}");
             sb.AppendLine($"Edad: {this.Edad}");
-            sb.AppendLine($"Barrio de Recidencia: {this.barrioRecidencia}");
-            sb.AppendLine($"Fecha de Nacimiento: {this.nacimiento.ToString()}");
-
+            //sb.AppendLine($"Barrio de Residencia: {this.barrioResidencia}");
+            //sb.AppendLine($"Fecha de Nacimiento: {this.nacimiento.ToString()}");
+            if(p is PersonalMedico)
+            {
+                sb.AppendLine($"{p.FichaExtra()}");
+            }
+            if(p is Paciente)
+            {
+                sb.AppendLine($"{p.FichaExtra()}");
+            }
             return sb.ToString();
         }
 
