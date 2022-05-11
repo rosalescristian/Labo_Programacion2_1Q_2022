@@ -13,11 +13,23 @@ namespace AtencionDePacientes
 {
     public partial class FrmAtencion : Form
     {
+        public enum DiagnosticoRandom
+        {
+            Curado, Gripe, Coronavirus
+        }
+        /// <summary>
+        /// 
+        /// </summary>
         public FrmAtencion()
         {
             InitializeComponent();
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void FrmAtencion_Load(object sender, EventArgs e)
         {
             lstMedicos.Items.Add(new PersonalMedico("Fede", "Dávila", new DateTime(1999, 12, 12), false));
@@ -28,15 +40,23 @@ namespace AtencionDePacientes
             lstPacientes.Items.Add(new Paciente("John Jairo", "Trelles", new DateTime(1978, 8, 30), "Medellín"));
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btnAtender_Click(object sender, EventArgs e)
         {
+            Random auxDiagnosticoRandom = new Random();
+            int randomDiagnostico = auxDiagnosticoRandom.Next(0, 3);
+            
             if(lstMedicos.SelectedIndex != -1 && lstPacientes.SelectedIndex != -1)
             {
                 PersonalMedico auxPersonalMedico = (PersonalMedico)lstMedicos.SelectedItem;
                 Paciente auxPaciente = (Paciente)lstPacientes.SelectedItem;
-                Random auxDiagnosticoRandom = new Random();
-                int randomDiagnostico = auxDiagnosticoRandom.Next(0, 3);
-                auxPaciente.Diagnostico = randomDiagnostico.ToString();
+                DiagnosticoRandom diagnostico = (DiagnosticoRandom)randomDiagnostico;
+                auxPaciente.Diagnostico = diagnostico.ToString();
+
                 Consulta auxConsulta = new Consulta(DateTime.Now, auxPaciente);
 
                 if(auxPersonalMedico+auxPaciente)
@@ -52,11 +72,21 @@ namespace AtencionDePacientes
             }
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btnSalir_Click(object sender, EventArgs e)
         {
             this.Close();
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void FrmAtencion_FormClosing(object sender, FormClosingEventArgs e)
         {
             if (MessageBox.Show("¿Seguro que desea salir?", "Salir", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.No)
@@ -65,6 +95,11 @@ namespace AtencionDePacientes
             }
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void lstMedicos_SelectedIndexChanged(object sender, EventArgs e)
         {
             if(lstMedicos.SelectedIndex != -1)
