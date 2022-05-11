@@ -59,8 +59,8 @@ namespace Entidades
         {
             if(doctor is not null && paciente is not null)
             {
-                Consulta consultaAux = new Consulta(DateTime.Now, paciente);
-                doctor.consultas.Add(consultaAux);
+                Consulta auxConsulta = new Consulta(DateTime.Now, paciente);
+                doctor.consultas.Add(auxConsulta);
                 return true;
             }
             return false;
