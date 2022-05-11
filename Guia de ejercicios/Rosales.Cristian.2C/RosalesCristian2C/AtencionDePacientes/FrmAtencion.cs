@@ -18,7 +18,7 @@ namespace AtencionDePacientes
             Curado, Gripe, Coronavirus
         }
         /// <summary>
-        /// 
+        /// Inicializa el Form
         /// </summary>
         public FrmAtencion()
         {
@@ -26,7 +26,7 @@ namespace AtencionDePacientes
         }
 
         /// <summary>
-        /// 
+        /// Load del Form
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
@@ -41,28 +41,26 @@ namespace AtencionDePacientes
         }
 
         /// <summary>
-        /// 
+        /// Click del Boton Atender
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
         private void btnAtender_Click(object sender, EventArgs e)
         {
-            Random auxDiagnosticoRandom = new Random();
-            int randomDiagnostico = auxDiagnosticoRandom.Next(0, 3);
-            
             if(lstMedicos.SelectedIndex != -1 && lstPacientes.SelectedIndex != -1)
             {
+                Random auxDiagnosticoRandom = new Random();
+                int randomDiagnostico = auxDiagnosticoRandom.Next(0, 3);
                 PersonalMedico auxPersonalMedico = (PersonalMedico)lstMedicos.SelectedItem;
                 Paciente auxPaciente = (Paciente)lstPacientes.SelectedItem;
                 DiagnosticoRandom diagnostico = (DiagnosticoRandom)randomDiagnostico;
                 auxPaciente.Diagnostico = diagnostico.ToString();
 
-                Consulta auxConsulta = new Consulta(DateTime.Now, auxPaciente);
-
                 if(auxPersonalMedico+auxPaciente)
                 {
                     lstMedicos.SelectedIndex = -1;
                     lstPacientes.SelectedIndex = -1;
+                    Consulta auxConsulta = new Consulta(DateTime.Now, auxPaciente);
                     MessageBox.Show($"{auxConsulta.ToString()}", "Atencion Finalizada", MessageBoxButtons.OK);
                 }
             }
@@ -73,7 +71,7 @@ namespace AtencionDePacientes
         }
 
         /// <summary>
-        /// 
+        /// Click del Boton Salir
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
@@ -83,7 +81,7 @@ namespace AtencionDePacientes
         }
 
         /// <summary>
-        /// 
+        /// Form Closing
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
@@ -96,7 +94,7 @@ namespace AtencionDePacientes
         }
 
         /// <summary>
-        /// 
+        /// Cambio de Index en la lista de Medicos (lstMedicos)
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>

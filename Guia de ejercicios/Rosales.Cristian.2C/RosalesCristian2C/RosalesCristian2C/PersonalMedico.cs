@@ -45,7 +45,6 @@ namespace Entidades
                 sb.Append($"{auxPersona.FichaPersonal(auxPersona)}");
                 sb.Append($"{auxPaciente.FichaExtra()}");
                 sb.AppendLine("");
-                //sb.Append($"{consulta.ToString()}");
             }
             return sb.ToString();
         }
