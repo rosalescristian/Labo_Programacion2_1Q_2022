@@ -88,8 +88,7 @@ namespace Entidades
             
             sb.AppendLine($"{this.ToString()}");
             sb.AppendLine($"Edad: {this.Edad}");
-            //sb.AppendLine($"Barrio de Residencia: {this.barrioResidencia}");
-            //sb.AppendLine($"Fecha de Nacimiento: {this.nacimiento.ToString()}");
+
             if(p is PersonalMedico)
             {
                 sb.AppendLine($"{p.FichaExtra()}");

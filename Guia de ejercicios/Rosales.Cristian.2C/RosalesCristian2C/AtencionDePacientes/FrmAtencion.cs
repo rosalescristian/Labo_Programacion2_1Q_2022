@@ -61,6 +61,7 @@ namespace AtencionDePacientes
                     lstMedicos.SelectedIndex = -1;
                     lstPacientes.SelectedIndex = -1;
                     Consulta auxConsulta = new Consulta(DateTime.Now, auxPaciente);
+
                     MessageBox.Show($"{auxConsulta.ToString()}", "Atencion Finalizada", MessageBoxButtons.OK);
                 }
             }

@@ -40,7 +40,7 @@ namespace Entidades
             sb.AppendLine($"ATENCIONES: ");
             foreach(Consulta consulta in consultas)
             {
-                Persona auxPersona = (Persona)consulta.Paciente;
+                Persona auxPersona = consulta.Paciente;
                 Paciente auxPaciente = consulta.Paciente;
                 sb.Append($"{auxPersona.FichaPersonal(auxPersona)}");
                 sb.Append($"{auxPaciente.FichaExtra()}");
@@ -52,9 +52,9 @@ namespace Entidades
         /// <summary>
         /// Operador +
         /// </summary>
-        /// <param name="doctor"></param>
-        /// <param name="paciente"></param>
-        /// <returns></returns>
+        /// <param name="doctor">Doctor al que se le va a agregar la consulta en su lista</param>
+        /// <param name="paciente">Paciente que va a sumarse a la consulta del doc</param>
+        /// <returns>TRUE si se pudo agregar, si no FALSE</returns>
         public static bool operator +(PersonalMedico doctor, Paciente paciente)
         {
             if(doctor is not null && paciente is not null)
