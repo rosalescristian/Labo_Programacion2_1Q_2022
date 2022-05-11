@@ -34,7 +34,9 @@ namespace AtencionDePacientes
             {
                 PersonalMedico auxPersonalMedico = (PersonalMedico)lstMedicos.SelectedItem;
                 Paciente auxPaciente = (Paciente)lstPacientes.SelectedItem;
-                auxPaciente.Diagnostico = "Paciente Curado";
+                Random auxDiagnosticoRandom = new Random();
+                int randomDiagnostico = auxDiagnosticoRandom.Next(0, 3);
+                auxPaciente.Diagnostico = randomDiagnostico.ToString();
                 Consulta auxConsulta = new Consulta(DateTime.Now, auxPaciente);
 
                 if(auxPersonalMedico+auxPaciente)
@@ -69,7 +71,7 @@ namespace AtencionDePacientes
             {
                 PersonalMedico auxPersonalMedico = (PersonalMedico)lstMedicos.SelectedItem;
                 Persona auxPersona = (Persona)auxPersonalMedico;
-                //MessageBox.Show($"{auxPersonalMedico.FichaPersonal(auxPersonalMedico)}", "Atencion Finalizada", MessageBoxButtons.OK);
+                rtbInfoMedico.Text = auxPersonalMedico.FichaPersonal(auxPersonalMedico);
             }
         }
     }

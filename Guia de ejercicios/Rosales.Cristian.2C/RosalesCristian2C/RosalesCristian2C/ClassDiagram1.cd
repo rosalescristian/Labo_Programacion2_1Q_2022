@@ -9,6 +9,13 @@
   </Class>
   <Class Name="Entidades.Paciente">
     <Position X="3" Y="4.5" Width="3" />
+    <NestedTypes>
+      <Enum Name="Entidades.Paciente.DiagnosticoRandom" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Paciente.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAIAAAACAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
       <FileName>Paciente.cs</FileName>
@@ -24,7 +31,7 @@
   <Class Name="Entidades.PersonalMedico">
     <Position X="6.25" Y="4.5" Width="3" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAIAAQAAAAAAAAAAAAAAAAAACAAAAAEA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAIAAQAAAAAAAAAAAQAAAAAACAAAAAAA=</HashCode>
       <FileName>PersonalMedico.cs</FileName>
     </TypeIdentifier>
   </Class>

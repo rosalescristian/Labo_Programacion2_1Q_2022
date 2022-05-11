@@ -59,7 +59,7 @@ namespace Entidades
             get
             {
                 StringBuilder sb = new StringBuilder();
-                sb.AppendLine(string.Format("{0}, {1}", this.apellido, this.nombre));
+                sb.Append(string.Format("{0}, {1}", this.apellido, this.nombre));
                 return sb.ToString();
             }
         }
@@ -91,10 +91,6 @@ namespace Entidades
             //sb.AppendLine($"Barrio de Residencia: {this.barrioResidencia}");
             //sb.AppendLine($"Fecha de Nacimiento: {this.nacimiento.ToString()}");
             if(p is PersonalMedico)
-            {
-                sb.AppendLine($"{p.FichaExtra()}");
-            }
-            if(p is Paciente)
             {
                 sb.AppendLine($"{p.FichaExtra()}");
             }

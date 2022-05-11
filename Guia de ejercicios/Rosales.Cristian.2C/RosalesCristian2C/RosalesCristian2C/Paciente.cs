@@ -8,6 +8,10 @@ namespace Entidades
 {
     public class Paciente : Persona
     {
+        public enum DiagnosticoRandom
+        {
+            Curado, Gripe, Coronavirus
+        }
         public string diagnostico;
 
         /// <summary>

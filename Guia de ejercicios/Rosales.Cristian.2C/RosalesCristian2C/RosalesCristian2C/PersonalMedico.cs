@@ -41,9 +41,11 @@ namespace Entidades
             foreach(Consulta consulta in consultas)
             {
                 Persona auxPersona = (Persona)consulta.Paciente;
+                Paciente auxPaciente = consulta.Paciente;
                 sb.Append($"{auxPersona.FichaPersonal(auxPersona)}");
-                sb.Append($"{consulta.Paciente.FichaExtra()}");
-                sb.Append($"{consulta.ToString()}");
+                sb.Append($"{auxPaciente.FichaExtra()}");
+                sb.AppendLine("");
+                //sb.Append($"{consulta.ToString()}");
             }
             return sb.ToString();
         }
