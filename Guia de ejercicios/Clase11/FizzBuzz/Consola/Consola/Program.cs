@@ -16,7 +16,7 @@ namespace Consola
                 {
                     Console.WriteLine(numero.FizzBuzz());
                 }
-                Console.WriteLine("Desea salir? S/N");
+                Console.WriteLine("\nDesea salir? S/N");
                 Char.TryParse(Console.ReadLine(), out salir);
                
             } while (salir == 'N');

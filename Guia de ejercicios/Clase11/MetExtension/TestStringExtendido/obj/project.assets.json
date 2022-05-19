@@ -5,7 +5,7 @@
       "coverlet.collector/3.0.2": {
         "type": "package",
         "build": {
-          "build/netstandard1.0/_._": {}
+          "build/netstandard1.0/coverlet.collector.targets": {}
         }
       },
       "Microsoft.CodeCoverage/16.9.4": {
@@ -17,7 +17,8 @@
           "lib/netcoreapp1.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll": {}
         },
         "build": {
-          "build/netstandard1.0/_._": {}
+          "build/netstandard1.0/Microsoft.CodeCoverage.props": {},
+          "build/netstandard1.0/Microsoft.CodeCoverage.targets": {}
         }
       },
       "Microsoft.CSharp/4.0.1": {
@@ -60,10 +61,11 @@
           "lib/netcoreapp2.1/_._": {}
         },
         "build": {
-          "build/netcoreapp2.1/_._": {}
+          "build/netcoreapp2.1/Microsoft.NET.Test.Sdk.props": {},
+          "build/netcoreapp2.1/Microsoft.NET.Test.Sdk.targets": {}
         },
         "buildMultiTargeting": {
-          "buildMultiTargeting/_._": {}
+          "buildMultiTargeting/Microsoft.NET.Test.Sdk.props": {}
         }
       },
       "Microsoft.NETCore.Platforms/1.1.0": {
@@ -327,7 +329,7 @@
           }
         },
         "build": {
-          "build/netcoreapp2.1/_._": {}
+          "build/netcoreapp2.1/Microsoft.TestPlatform.TestHost.props": {}
         }
       },
       "Microsoft.Win32.Primitives/4.3.0": {
@@ -348,7 +350,7 @@
           "System.Diagnostics.TextWriterTraceListener": "4.3.0"
         },
         "build": {
-          "build/netcoreapp1.0/_._": {}
+          "build/netcoreapp1.0/MSTest.TestAdapter.props": {}
         }
       },
       "MSTest.TestFramework/2.2.3": {
@@ -1657,32 +1659,6 @@
         },
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
-        }
-      },
-      "Biblioteca/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/Biblioteca.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Biblioteca.dll": {}
-        }
-      },
-      "TestStringExtendido/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "dependencies": {
-          "MSTest.TestAdapter": "2.2.3",
-          "MSTest.TestFramework": "2.2.3",
-          "Microsoft.NET.Test.Sdk": "16.9.4",
-          "coverlet.collector": "3.0.2"
-        },
-        "compile": {
-          "bin/placeholder/TestStringExtendido.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/TestStringExtendido.dll": {}
         }
       }
     }
@@ -6127,22 +6103,14 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
-    },
-    "Biblioteca/1.0.0": {
-      "type": "project",
-      "path": "../MetExtension/Biblioteca.csproj",
-      "msbuildProject": "../MetExtension/Biblioteca.csproj"
-    },
-    "TestStringExtendido/1.0.0": {
-      "type": "project",
-      "path": "../TestStringExtendido/TestStringExtendido.csproj",
-      "msbuildProject": "../TestStringExtendido/TestStringExtendido.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Biblioteca >= 1.0.0",
-      "TestStringExtendido >= 1.0.0"
+      "MSTest.TestAdapter >= 2.2.3",
+      "MSTest.TestFramework >= 2.2.3",
+      "Microsoft.NET.Test.Sdk >= 16.9.4",
+      "coverlet.collector >= 3.0.2"
     ]
   },
   "packageFolders": {
@@ -6151,11 +6119,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase11\\MetExtension\\Consola\\Consola.csproj",
-      "projectName": "Consola",
-      "projectPath": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase11\\MetExtension\\Consola\\Consola.csproj",
+      "projectUniqueName": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase11\\MetExtension\\TestStringExtendido\\TestStringExtendido.csproj",
+      "projectName": "TestStringExtendido",
+      "projectPath": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase11\\MetExtension\\TestStringExtendido\\TestStringExtendido.csproj",
       "packagesPath": "C:\\Users\\crisp\\.nuget\\packages\\",
-      "outputPath": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase11\\MetExtension\\Consola\\obj\\",
+      "outputPath": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase11\\MetExtension\\TestStringExtendido\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\crisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6171,14 +6139,7 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {
-            "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase11\\MetExtension\\MetExtension\\Biblioteca.csproj": {
-              "projectPath": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase11\\MetExtension\\MetExtension\\Biblioteca.csproj"
-            },
-            "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase11\\MetExtension\\TestStringExtendido\\TestStringExtendido.csproj": {
-              "projectPath": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase11\\MetExtension\\TestStringExtendido\\TestStringExtendido.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -6190,6 +6151,24 @@
     "frameworks": {
       "net5.0": {
         "targetAlias": "net5.0",
+        "dependencies": {
+          "MSTest.TestAdapter": {
+            "target": "Package",
+            "version": "[2.2.3, )"
+          },
+          "MSTest.TestFramework": {
+            "target": "Package",
+            "version": "[2.2.3, )"
+          },
+          "Microsoft.NET.Test.Sdk": {
+            "target": "Package",
+            "version": "[16.9.4, )"
+          },
+          "coverlet.collector": {
+            "target": "Package",
+            "version": "[3.0.2, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
