@@ -142,7 +142,11 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase11\\MetExtension\\MetExtension\\Biblioteca.csproj": {
+                "projectPath": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase11\\MetExtension\\MetExtension\\Biblioteca.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
