@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "Biblioteca/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Biblioteca.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Biblioteca.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Biblioteca/1.0.0": {
+      "type": "project",
+      "path": "../MetExtension/Biblioteca.csproj",
+      "msbuildProject": "../MetExtension/Biblioteca.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "Biblioteca >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\crisp\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase11\\MetExtension\\MetExtension\\Biblioteca.csproj": {
+              "projectPath": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Clase11\\MetExtension\\MetExtension\\Biblioteca.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

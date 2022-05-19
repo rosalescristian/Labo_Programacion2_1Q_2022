@@ -1,4 +1,5 @@
 ﻿using System;
+using Biblioteca;
 
 namespace Consola
 {
@@ -6,7 +7,12 @@ namespace Consola
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string texto = "Hola Mundo";
+
+            int cantidadDePalabras = texto.ContarPalabras();
+            Console.WriteLine(cantidadDePalabras);
+            
+            Console.ReadKey();
         }
     }
 }
