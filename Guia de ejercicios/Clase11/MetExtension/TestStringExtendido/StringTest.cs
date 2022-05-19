@@ -1,5 +1,6 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Biblioteca;
+using System;
 
 namespace TestStringExtendido
 {
@@ -34,6 +35,19 @@ namespace TestStringExtendido
 
             //Assert - Evaluo los resultados
             Assert.AreEqual(expected, actual);
+        }
+
+        [TestMethod]
+        [ExpectedException(typeof(ArgumentNullException))]
+        public void ContarPalabras_CuandoRecibeUnStringEmpty_LanzaArgumentException()
+        {
+            ///Arrange
+            string t = string.Empty;
+
+            //Act
+            int actual = t.ContarPalabras();
+
+            //Assert
         }
     }
 }
