@@ -14,7 +14,7 @@ namespace Consola
                 Console.WriteLine("Ingrese un nro: ");
                 if(int.TryParse(Console.ReadLine(), out numero))
                 {
-                    Console.WriteLine(numero.Dividir());
+                    Console.WriteLine(numero.FizzBuzz());
                 }
                 Console.WriteLine("Desea salir? S/N");
                 Char.TryParse(Console.ReadLine(), out salir);
