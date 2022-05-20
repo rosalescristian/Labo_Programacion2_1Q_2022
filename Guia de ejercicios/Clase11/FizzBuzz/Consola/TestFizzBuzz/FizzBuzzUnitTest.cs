@@ -1,11 +1,11 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
 using Biblioteca;
+using System;
 
 namespace TestFizzBuzz
 {
     [TestClass]
-    public class UnitTest1
+    public class FizzBuzzUnitTest
     {
         /// <summary>
         /// Prueba si el nro es Divisible por Tres y retorna FIZZ
@@ -14,12 +14,12 @@ namespace TestFizzBuzz
         public void FizzBuzz_CuandoDivisiblePorTres_DeberiaRetornarFizz()
         {
             //Arrange
-            int i = 3;
+            int numero = 9;
             string expected = "Fizz";
             string actual;
 
             //Act
-            actual = i.FizzBuzz();
+            actual = numero.FizzBuzz();
 
             //Assert
             Assert.AreEqual(expected, actual);
@@ -32,12 +32,12 @@ namespace TestFizzBuzz
         public void FizzBuzz_CuandoDivisiblePorCinco_DeberiaRetornarBuzz()
         {
             //Arrange
-            int i = 5;
+            int numero = 20;
             string expected = "Buzz";
             string actual;
 
             //Act
-            actual = i.FizzBuzz();
+            actual = numero.FizzBuzz();
 
             //Assert
             Assert.AreEqual(expected, actual);
@@ -50,12 +50,12 @@ namespace TestFizzBuzz
         public void FizzBuzz_CuandoDivisiblePorTresYCinco_DeberiaRetornarFizzBuzz()
         {
             //Arrange
-            int i = 15;
+            int numero = 15;
             string expected = "FizzBuzz";
             string actual;
 
             //Act
-            actual = i.FizzBuzz();
+            actual = numero.FizzBuzz();
 
             //Assert
             Assert.AreEqual(expected, actual);
@@ -65,17 +65,21 @@ namespace TestFizzBuzz
         /// Prueba si el nro no es Divisible por Tres O Cinco y retorna el mismo nro en String
         /// </summary>
         [TestMethod]
-        public void FizzBuzz_CuandoNoDivisiblePorTresOCinco_DeberiaRetornarMismoNro()
+        [DataRow(4)] //     de esta forma puedo repetir varias veces                       el test con diferentes valores. Tengo q                      comentar el assert
+        [DataRow(14)]
+        [DataRow(11)]
+        public void FizzBuzz_CuandoNoDivisiblePorTresYCinco_DeberiaRetornarMismoNro(int numero)
         {
             //Arrange
-            int i = 7;
-            string expected = i.ToString();
-            string actual;
+            //int numero = 7;
+            string expected = numero.ToString();
+            string actual = string.Empty;
 
             //Act
-            actual = i.FizzBuzz();
+            actual = numero.FizzBuzz();
 
             //Assert
+            //Assert.AreEqual(expected, actual); // linea original
             Assert.AreEqual(expected, actual);
         }
     }
