@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32516.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consola", "Consola\Consola.csproj", "{69D3DBF9-A4E3-43CD-9296-D49D6A99D058}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestorDeArchivos", "GestorDeArchivos\GestorDeArchivos.csproj", "{8029704B-1AAB-48FB-AECA-1A8E8D9AD2AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{69D3DBF9-A4E3-43CD-9296-D49D6A99D058}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69D3DBF9-A4E3-43CD-9296-D49D6A99D058}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69D3DBF9-A4E3-43CD-9296-D49D6A99D058}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8029704B-1AAB-48FB-AECA-1A8E8D9AD2AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8029704B-1AAB-48FB-AECA-1A8E8D9AD2AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8029704B-1AAB-48FB-AECA-1A8E8D9AD2AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8029704B-1AAB-48FB-AECA-1A8E8D9AD2AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

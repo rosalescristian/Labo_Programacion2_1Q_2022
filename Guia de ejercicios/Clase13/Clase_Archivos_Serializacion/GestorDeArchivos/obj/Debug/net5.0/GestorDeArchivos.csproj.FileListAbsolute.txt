@@ -1,0 +1,12 @@
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase13\Clase_Archivos_Serializacion\GestorDeArchivos\bin\Debug\net5.0\GestorDeArchivos.deps.json
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase13\Clase_Archivos_Serializacion\GestorDeArchivos\bin\Debug\net5.0\GestorDeArchivos.dll
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase13\Clase_Archivos_Serializacion\GestorDeArchivos\bin\Debug\net5.0\GestorDeArchivos.pdb
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase13\Clase_Archivos_Serializacion\GestorDeArchivos\obj\Debug\net5.0\GestorDeArchivos.csproj.AssemblyReference.cache
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase13\Clase_Archivos_Serializacion\GestorDeArchivos\obj\Debug\net5.0\GestorDeArchivos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase13\Clase_Archivos_Serializacion\GestorDeArchivos\obj\Debug\net5.0\GestorDeArchivos.AssemblyInfoInputs.cache
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase13\Clase_Archivos_Serializacion\GestorDeArchivos\obj\Debug\net5.0\GestorDeArchivos.AssemblyInfo.cs
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase13\Clase_Archivos_Serializacion\GestorDeArchivos\obj\Debug\net5.0\GestorDeArchivos.csproj.CoreCompileInputs.cache
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase13\Clase_Archivos_Serializacion\GestorDeArchivos\obj\Debug\net5.0\GestorDeArchivos.dll
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase13\Clase_Archivos_Serializacion\GestorDeArchivos\obj\Debug\net5.0\refint\GestorDeArchivos.dll
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase13\Clase_Archivos_Serializacion\GestorDeArchivos\obj\Debug\net5.0\GestorDeArchivos.pdb
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase13\Clase_Archivos_Serializacion\GestorDeArchivos\obj\Debug\net5.0\ref\GestorDeArchivos.dll
