@@ -12,7 +12,7 @@ namespace Consola
         static void Main(string[] args)
         {
             string path = GetFolderPath(SpecialFolder.Desktop) + @"/Archivos/MiArchivo.txt";
-
+            
             StringBuilder sb = new StringBuilder();
             sb.AppendLine("Habia una vez una vaca");
             sb.AppendLine("en la quebrada de humahuaca");
