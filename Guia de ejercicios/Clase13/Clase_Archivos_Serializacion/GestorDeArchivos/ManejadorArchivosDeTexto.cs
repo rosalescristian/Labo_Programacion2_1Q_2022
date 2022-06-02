@@ -19,7 +19,7 @@ namespace GestorDeArchivos
             catch (Exception ex)
             {
 
-                throw;
+                Console.WriteLine(ex.Message); ;
             }
             finally
             {
@@ -50,7 +50,7 @@ namespace GestorDeArchivos
             catch (Exception ex)
             {
 
-                throw;
+                Console.WriteLine(ex.Message); ;
             }
         }
 
@@ -66,7 +66,7 @@ namespace GestorDeArchivos
             catch (Exception ex)
             {
 
-                throw;
+                return ex.Message;
             }
         }
 
