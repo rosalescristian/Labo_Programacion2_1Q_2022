@@ -9,12 +9,23 @@ namespace Biblioteca
 {
     public class ClienteDAO
     {
+        private static string connectionString;
+        private SqlConnection connection;
+
+        static ClienteDAO()
+        {
+            connectionString = @"Server=.;Database=CLIENTESDB;Trusted_Connection=True;";
+        }
+        public ClienteDAO()
+        {
+
+        }
         public void Guardar(Cliente cliente)
         {
             //Vamos a usar las connection Strings de la web: https://www.connectionstrings.com/
             //Trusted Connection
-            string connectionString = @"Server=.;Database=CLIENTESDB;Trusted_Connection=True;";
-            SqlConnection connection = new SqlConnection(connectionString);//instancio un nuevo
+            //string connectionString = @"Server=.;Database=CLIENTESDB;Trusted_Connection=True;";
+            this.connection = new SqlConnection(ClienteDAO.connectionString);//instancio un nuevo
                                                                             //conectarme;
             try
             {
@@ -24,6 +35,7 @@ namespace Biblioteca
 
                 //Parametrizamos la consulta
                 SqlCommand sqlCommand = new SqlCommand(query, connection);
+                sqlCommand.Parameters.Clear();
                 sqlCommand.Parameters.AddWithValue("nombre", cliente.Nombre);
                 sqlCommand.Parameters.AddWithValue("nombre", cliente.Direccion);
 
@@ -81,6 +93,10 @@ namespace Biblioteca
             {
 
                 throw;
+            }
+            finally
+            {
+
             }
         }
     }

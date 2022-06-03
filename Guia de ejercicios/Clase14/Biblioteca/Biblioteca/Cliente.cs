@@ -26,8 +26,6 @@ namespace Biblioteca
             this.direccion = direccion;
         }
 
-        private int myVar;
-
         public int Id
         {
             get { return this.id; }
