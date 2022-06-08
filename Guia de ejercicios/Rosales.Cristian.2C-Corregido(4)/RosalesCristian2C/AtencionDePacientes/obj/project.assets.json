@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Rosales.Cristian.2C\\RosalesCristian2C\\AtencionDePacientes\\AtencionDePacientes.csproj",
+      "projectUniqueName": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Rosales.Cristian.2C-Corregido(4)\\RosalesCristian2C\\AtencionDePacientes\\AtencionDePacientes.csproj",
       "projectName": "AtencionDePacientes",
-      "projectPath": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Rosales.Cristian.2C\\RosalesCristian2C\\AtencionDePacientes\\AtencionDePacientes.csproj",
+      "projectPath": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Rosales.Cristian.2C-Corregido(4)\\RosalesCristian2C\\AtencionDePacientes\\AtencionDePacientes.csproj",
       "packagesPath": "C:\\Users\\crisp\\.nuget\\packages\\",
-      "outputPath": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Rosales.Cristian.2C\\RosalesCristian2C\\AtencionDePacientes\\obj\\",
+      "outputPath": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Rosales.Cristian.2C-Corregido(4)\\RosalesCristian2C\\AtencionDePacientes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\crisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Rosales.Cristian.2C\\RosalesCristian2C\\RosalesCristian2C\\Entidades.csproj": {
-              "projectPath": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Rosales.Cristian.2C\\RosalesCristian2C\\RosalesCristian2C\\Entidades.csproj"
+            "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Rosales.Cristian.2C-Corregido(4)\\RosalesCristian2C\\RosalesCristian2C\\Entidades.csproj": {
+              "projectPath": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\Rosales.Cristian.2C-Corregido(4)\\RosalesCristian2C\\RosalesCristian2C\\Entidades.csproj"
             }
           }
         }

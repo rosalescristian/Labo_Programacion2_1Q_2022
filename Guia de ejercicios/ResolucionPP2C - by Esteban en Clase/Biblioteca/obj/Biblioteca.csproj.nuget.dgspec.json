@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Esteban\\Desktop\\ResolucionPP2C\\Biblioteca\\Biblioteca.csproj": {}
+    "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\ResolucionPP2C - by Esteban en Clase\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Esteban\\Desktop\\ResolucionPP2C\\Biblioteca\\Biblioteca.csproj": {
+    "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\ResolucionPP2C - by Esteban en Clase\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Esteban\\Desktop\\ResolucionPP2C\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\ResolucionPP2C - by Esteban en Clase\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\Users\\Esteban\\Desktop\\ResolucionPP2C\\Biblioteca\\Biblioteca.csproj",
-        "packagesPath": "C:\\Users\\Esteban\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Esteban\\Desktop\\ResolucionPP2C\\Biblioteca\\obj\\",
+        "projectPath": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\ResolucionPP2C - by Esteban en Clase\\Biblioteca\\Biblioteca.csproj",
+        "packagesPath": "C:\\Users\\crisp\\.nuget\\packages\\",
+        "outputPath": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\ResolucionPP2C - by Esteban en Clase\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Esteban\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\crisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

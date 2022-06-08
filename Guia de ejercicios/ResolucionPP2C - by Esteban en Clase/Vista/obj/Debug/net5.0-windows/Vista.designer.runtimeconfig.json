@@ -6,8 +6,8 @@
       "version": "5.0.0"
     },
     "additionalProbingPaths": [
-      "C:\\Users\\Esteban\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Esteban\\.nuget\\packages"
+      "C:\\Users\\crisp\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\crisp\\.nuget\\packages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true

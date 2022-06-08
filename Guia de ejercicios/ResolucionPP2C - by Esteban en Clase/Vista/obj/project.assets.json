@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Esteban\\.nuget\\packages\\": {}
+    "C:\\Users\\crisp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Esteban\\Desktop\\ResolucionPP2C\\Vista\\Vista.csproj",
+      "projectUniqueName": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\ResolucionPP2C - by Esteban en Clase\\Vista\\Vista.csproj",
       "projectName": "Vista",
-      "projectPath": "C:\\Users\\Esteban\\Desktop\\ResolucionPP2C\\Vista\\Vista.csproj",
-      "packagesPath": "C:\\Users\\Esteban\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Esteban\\Desktop\\ResolucionPP2C\\Vista\\obj\\",
+      "projectPath": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\ResolucionPP2C - by Esteban en Clase\\Vista\\Vista.csproj",
+      "packagesPath": "C:\\Users\\crisp\\.nuget\\packages\\",
+      "outputPath": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\ResolucionPP2C - by Esteban en Clase\\Vista\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Esteban\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\crisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,8 +53,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\Esteban\\Desktop\\ResolucionPP2C\\Biblioteca\\Biblioteca.csproj": {
-              "projectPath": "C:\\Users\\Esteban\\Desktop\\ResolucionPP2C\\Biblioteca\\Biblioteca.csproj"
+            "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\ResolucionPP2C - by Esteban en Clase\\Biblioteca\\Biblioteca.csproj": {
+              "projectPath": "D:\\Cosas\\UTN FRA\\2022\\Laboratorio y Programacion\\Labo_Programacion2_1Q_2022\\Guia de ejercicios\\ResolucionPP2C - by Esteban en Clase\\Biblioteca\\Biblioteca.csproj"
             }
           }
         }
@@ -86,7 +86,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

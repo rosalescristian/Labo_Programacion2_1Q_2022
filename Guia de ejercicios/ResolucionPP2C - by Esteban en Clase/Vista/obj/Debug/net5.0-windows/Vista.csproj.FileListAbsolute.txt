@@ -19,3 +19,24 @@ C:\Users\Esteban\Desktop\ResolucionPP2C\Vista\obj\Debug\net5.0-windows\refint\Vi
 C:\Users\Esteban\Desktop\ResolucionPP2C\Vista\obj\Debug\net5.0-windows\Vista.pdb
 C:\Users\Esteban\Desktop\ResolucionPP2C\Vista\obj\Debug\net5.0-windows\Vista.genruntimeconfig.cache
 C:\Users\Esteban\Desktop\ResolucionPP2C\Vista\obj\Debug\net5.0-windows\ref\Vista.dll
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\ResolucionPP2C - by Esteban en Clase\Vista\bin\Debug\net5.0-windows\Vista.exe
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\ResolucionPP2C - by Esteban en Clase\Vista\bin\Debug\net5.0-windows\Vista.deps.json
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\ResolucionPP2C - by Esteban en Clase\Vista\bin\Debug\net5.0-windows\Vista.runtimeconfig.json
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\ResolucionPP2C - by Esteban en Clase\Vista\bin\Debug\net5.0-windows\Vista.runtimeconfig.dev.json
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\ResolucionPP2C - by Esteban en Clase\Vista\bin\Debug\net5.0-windows\Vista.dll
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\ResolucionPP2C - by Esteban en Clase\Vista\bin\Debug\net5.0-windows\Vista.pdb
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\ResolucionPP2C - by Esteban en Clase\Vista\bin\Debug\net5.0-windows\Biblioteca.dll
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\ResolucionPP2C - by Esteban en Clase\Vista\bin\Debug\net5.0-windows\Biblioteca.pdb
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\ResolucionPP2C - by Esteban en Clase\Vista\obj\Debug\net5.0-windows\Vista.csproj.AssemblyReference.cache
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\ResolucionPP2C - by Esteban en Clase\Vista\obj\Debug\net5.0-windows\Vista.FrmTest.resources
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\ResolucionPP2C - by Esteban en Clase\Vista\obj\Debug\net5.0-windows\Vista.csproj.GenerateResource.cache
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\ResolucionPP2C - by Esteban en Clase\Vista\obj\Debug\net5.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\ResolucionPP2C - by Esteban en Clase\Vista\obj\Debug\net5.0-windows\Vista.AssemblyInfoInputs.cache
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\ResolucionPP2C - by Esteban en Clase\Vista\obj\Debug\net5.0-windows\Vista.AssemblyInfo.cs
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\ResolucionPP2C - by Esteban en Clase\Vista\obj\Debug\net5.0-windows\Vista.csproj.CoreCompileInputs.cache
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\ResolucionPP2C - by Esteban en Clase\Vista\obj\Debug\net5.0-windows\Vista.csproj.CopyComplete
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\ResolucionPP2C - by Esteban en Clase\Vista\obj\Debug\net5.0-windows\Vista.dll
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\ResolucionPP2C - by Esteban en Clase\Vista\obj\Debug\net5.0-windows\refint\Vista.dll
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\ResolucionPP2C - by Esteban en Clase\Vista\obj\Debug\net5.0-windows\Vista.pdb
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\ResolucionPP2C - by Esteban en Clase\Vista\obj\Debug\net5.0-windows\Vista.genruntimeconfig.cache
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\ResolucionPP2C - by Esteban en Clase\Vista\obj\Debug\net5.0-windows\ref\Vista.dll
