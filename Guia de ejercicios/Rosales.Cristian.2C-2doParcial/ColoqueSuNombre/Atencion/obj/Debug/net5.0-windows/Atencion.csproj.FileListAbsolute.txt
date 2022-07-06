@@ -1,0 +1,63 @@
+J:\Visual UTN 2019\Examenes\2022-PP\Atencion\bin\Debug\net5.0-windows\Atencion.exe
+J:\Visual UTN 2019\Examenes\2022-PP\Atencion\bin\Debug\net5.0-windows\Atencion.deps.json
+J:\Visual UTN 2019\Examenes\2022-PP\Atencion\bin\Debug\net5.0-windows\Atencion.runtimeconfig.json
+J:\Visual UTN 2019\Examenes\2022-PP\Atencion\bin\Debug\net5.0-windows\Atencion.runtimeconfig.dev.json
+J:\Visual UTN 2019\Examenes\2022-PP\Atencion\bin\Debug\net5.0-windows\Atencion.dll
+J:\Visual UTN 2019\Examenes\2022-PP\Atencion\bin\Debug\net5.0-windows\Atencion.pdb
+J:\Visual UTN 2019\Examenes\2022-PP\Atencion\bin\Debug\net5.0-windows\Entidades.dll
+J:\Visual UTN 2019\Examenes\2022-PP\Atencion\bin\Debug\net5.0-windows\Entidades.pdb
+J:\Visual UTN 2019\Examenes\2022-PP\Atencion\obj\Debug\net5.0-windows\Atencion.csproj.AssemblyReference.cache
+J:\Visual UTN 2019\Examenes\2022-PP\Atencion\obj\Debug\net5.0-windows\Atencion.Form1.resources
+J:\Visual UTN 2019\Examenes\2022-PP\Atencion\obj\Debug\net5.0-windows\Atencion.csproj.GenerateResource.cache
+J:\Visual UTN 2019\Examenes\2022-PP\Atencion\obj\Debug\net5.0-windows\Atencion.GeneratedMSBuildEditorConfig.editorconfig
+J:\Visual UTN 2019\Examenes\2022-PP\Atencion\obj\Debug\net5.0-windows\Atencion.AssemblyInfoInputs.cache
+J:\Visual UTN 2019\Examenes\2022-PP\Atencion\obj\Debug\net5.0-windows\Atencion.AssemblyInfo.cs
+J:\Visual UTN 2019\Examenes\2022-PP\Atencion\obj\Debug\net5.0-windows\Atencion.csproj.CoreCompileInputs.cache
+J:\Visual UTN 2019\Examenes\2022-PP\Atencion\obj\Debug\net5.0-windows\Atencion.csproj.CopyComplete
+J:\Visual UTN 2019\Examenes\2022-PP\Atencion\obj\Debug\net5.0-windows\Atencion.dll
+J:\Visual UTN 2019\Examenes\2022-PP\Atencion\obj\Debug\net5.0-windows\refint\Atencion.dll
+J:\Visual UTN 2019\Examenes\2022-PP\Atencion\obj\Debug\net5.0-windows\Atencion.pdb
+J:\Visual UTN 2019\Examenes\2022-PP\Atencion\obj\Debug\net5.0-windows\Atencion.genruntimeconfig.cache
+J:\Visual UTN 2019\Examenes\2022-PP\Atencion\obj\Debug\net5.0-windows\ref\Atencion.dll
+J:\Visual UTN 2019\Examenes\20220511-PP\Atencion\bin\Debug\net5.0-windows\Atencion.exe
+J:\Visual UTN 2019\Examenes\20220511-PP\Atencion\bin\Debug\net5.0-windows\Atencion.deps.json
+J:\Visual UTN 2019\Examenes\20220511-PP\Atencion\bin\Debug\net5.0-windows\Atencion.runtimeconfig.json
+J:\Visual UTN 2019\Examenes\20220511-PP\Atencion\bin\Debug\net5.0-windows\Atencion.runtimeconfig.dev.json
+J:\Visual UTN 2019\Examenes\20220511-PP\Atencion\bin\Debug\net5.0-windows\Atencion.dll
+J:\Visual UTN 2019\Examenes\20220511-PP\Atencion\bin\Debug\net5.0-windows\Atencion.pdb
+J:\Visual UTN 2019\Examenes\20220511-PP\Atencion\bin\Debug\net5.0-windows\Entidades.dll
+J:\Visual UTN 2019\Examenes\20220511-PP\Atencion\bin\Debug\net5.0-windows\Entidades.pdb
+J:\Visual UTN 2019\Examenes\20220511-PP\Atencion\obj\Debug\net5.0-windows\Atencion.csproj.AssemblyReference.cache
+J:\Visual UTN 2019\Examenes\20220511-PP\Atencion\obj\Debug\net5.0-windows\Atencion.csproj.GenerateResource.cache
+J:\Visual UTN 2019\Examenes\20220511-PP\Atencion\obj\Debug\net5.0-windows\Atencion.GeneratedMSBuildEditorConfig.editorconfig
+J:\Visual UTN 2019\Examenes\20220511-PP\Atencion\obj\Debug\net5.0-windows\Atencion.AssemblyInfoInputs.cache
+J:\Visual UTN 2019\Examenes\20220511-PP\Atencion\obj\Debug\net5.0-windows\Atencion.AssemblyInfo.cs
+J:\Visual UTN 2019\Examenes\20220511-PP\Atencion\obj\Debug\net5.0-windows\Atencion.csproj.CoreCompileInputs.cache
+J:\Visual UTN 2019\Examenes\20220511-PP\Atencion\obj\Debug\net5.0-windows\Atencion.csproj.CopyComplete
+J:\Visual UTN 2019\Examenes\20220511-PP\Atencion\obj\Debug\net5.0-windows\Atencion.dll
+J:\Visual UTN 2019\Examenes\20220511-PP\Atencion\obj\Debug\net5.0-windows\refint\Atencion.dll
+J:\Visual UTN 2019\Examenes\20220511-PP\Atencion\obj\Debug\net5.0-windows\Atencion.pdb
+J:\Visual UTN 2019\Examenes\20220511-PP\Atencion\obj\Debug\net5.0-windows\Atencion.genruntimeconfig.cache
+J:\Visual UTN 2019\Examenes\20220511-PP\Atencion\obj\Debug\net5.0-windows\ref\Atencion.dll
+J:\Visual UTN 2019\Examenes\20220511-PP\Atencion\obj\Debug\net5.0-windows\Atencion.FrmAtencion.resources
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C-2doParcial\ColoqueSuNombre\Atencion\bin\Debug\net5.0-windows\Atencion.exe
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C-2doParcial\ColoqueSuNombre\Atencion\bin\Debug\net5.0-windows\Atencion.deps.json
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C-2doParcial\ColoqueSuNombre\Atencion\bin\Debug\net5.0-windows\Atencion.runtimeconfig.json
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C-2doParcial\ColoqueSuNombre\Atencion\bin\Debug\net5.0-windows\Atencion.runtimeconfig.dev.json
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C-2doParcial\ColoqueSuNombre\Atencion\bin\Debug\net5.0-windows\Atencion.dll
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C-2doParcial\ColoqueSuNombre\Atencion\bin\Debug\net5.0-windows\Atencion.pdb
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C-2doParcial\ColoqueSuNombre\Atencion\bin\Debug\net5.0-windows\Entidades.dll
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C-2doParcial\ColoqueSuNombre\Atencion\bin\Debug\net5.0-windows\Entidades.pdb
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C-2doParcial\ColoqueSuNombre\Atencion\obj\Debug\net5.0-windows\Atencion.csproj.AssemblyReference.cache
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C-2doParcial\ColoqueSuNombre\Atencion\obj\Debug\net5.0-windows\Atencion.FrmAtencion.resources
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C-2doParcial\ColoqueSuNombre\Atencion\obj\Debug\net5.0-windows\Atencion.csproj.GenerateResource.cache
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C-2doParcial\ColoqueSuNombre\Atencion\obj\Debug\net5.0-windows\Atencion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C-2doParcial\ColoqueSuNombre\Atencion\obj\Debug\net5.0-windows\Atencion.AssemblyInfoInputs.cache
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C-2doParcial\ColoqueSuNombre\Atencion\obj\Debug\net5.0-windows\Atencion.AssemblyInfo.cs
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C-2doParcial\ColoqueSuNombre\Atencion\obj\Debug\net5.0-windows\Atencion.csproj.CoreCompileInputs.cache
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C-2doParcial\ColoqueSuNombre\Atencion\obj\Debug\net5.0-windows\Atencion.csproj.CopyComplete
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C-2doParcial\ColoqueSuNombre\Atencion\obj\Debug\net5.0-windows\Atencion.dll
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C-2doParcial\ColoqueSuNombre\Atencion\obj\Debug\net5.0-windows\refint\Atencion.dll
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C-2doParcial\ColoqueSuNombre\Atencion\obj\Debug\net5.0-windows\Atencion.pdb
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C-2doParcial\ColoqueSuNombre\Atencion\obj\Debug\net5.0-windows\Atencion.genruntimeconfig.cache
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C-2doParcial\ColoqueSuNombre\Atencion\obj\Debug\net5.0-windows\ref\Atencion.dll

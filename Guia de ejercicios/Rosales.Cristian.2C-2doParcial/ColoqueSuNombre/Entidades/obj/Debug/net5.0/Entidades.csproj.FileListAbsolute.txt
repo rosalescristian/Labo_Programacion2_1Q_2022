@@ -1,0 +1,36 @@
+J:\Visual UTN 2019\Examenes\2022-PP\Entidades\bin\Debug\net5.0\Entidades.deps.json
+J:\Visual UTN 2019\Examenes\2022-PP\Entidades\bin\Debug\net5.0\Entidades.dll
+J:\Visual UTN 2019\Examenes\2022-PP\Entidades\bin\Debug\net5.0\Entidades.pdb
+J:\Visual UTN 2019\Examenes\2022-PP\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+J:\Visual UTN 2019\Examenes\2022-PP\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+J:\Visual UTN 2019\Examenes\2022-PP\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+J:\Visual UTN 2019\Examenes\2022-PP\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+J:\Visual UTN 2019\Examenes\2022-PP\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+J:\Visual UTN 2019\Examenes\2022-PP\Entidades\obj\Debug\net5.0\Entidades.dll
+J:\Visual UTN 2019\Examenes\2022-PP\Entidades\obj\Debug\net5.0\refint\Entidades.dll
+J:\Visual UTN 2019\Examenes\2022-PP\Entidades\obj\Debug\net5.0\Entidades.pdb
+J:\Visual UTN 2019\Examenes\2022-PP\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+J:\Visual UTN 2019\Examenes\20220511-PP\Entidades\bin\Debug\net5.0\Entidades.deps.json
+J:\Visual UTN 2019\Examenes\20220511-PP\Entidades\bin\Debug\net5.0\Entidades.dll
+J:\Visual UTN 2019\Examenes\20220511-PP\Entidades\bin\Debug\net5.0\Entidades.pdb
+J:\Visual UTN 2019\Examenes\20220511-PP\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+J:\Visual UTN 2019\Examenes\20220511-PP\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+J:\Visual UTN 2019\Examenes\20220511-PP\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+J:\Visual UTN 2019\Examenes\20220511-PP\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+J:\Visual UTN 2019\Examenes\20220511-PP\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+J:\Visual UTN 2019\Examenes\20220511-PP\Entidades\obj\Debug\net5.0\Entidades.dll
+J:\Visual UTN 2019\Examenes\20220511-PP\Entidades\obj\Debug\net5.0\refint\Entidades.dll
+J:\Visual UTN 2019\Examenes\20220511-PP\Entidades\obj\Debug\net5.0\Entidades.pdb
+J:\Visual UTN 2019\Examenes\20220511-PP\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C-2doParcial\ColoqueSuNombre\Entidades\bin\Debug\net5.0\Entidades.deps.json
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C-2doParcial\ColoqueSuNombre\Entidades\bin\Debug\net5.0\Entidades.dll
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C-2doParcial\ColoqueSuNombre\Entidades\bin\Debug\net5.0\Entidades.pdb
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C-2doParcial\ColoqueSuNombre\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C-2doParcial\ColoqueSuNombre\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C-2doParcial\ColoqueSuNombre\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C-2doParcial\ColoqueSuNombre\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C-2doParcial\ColoqueSuNombre\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C-2doParcial\ColoqueSuNombre\Entidades\obj\Debug\net5.0\Entidades.dll
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C-2doParcial\ColoqueSuNombre\Entidades\obj\Debug\net5.0\refint\Entidades.dll
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C-2doParcial\ColoqueSuNombre\Entidades\obj\Debug\net5.0\Entidades.pdb
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Rosales.Cristian.2C-2doParcial\ColoqueSuNombre\Entidades\obj\Debug\net5.0\ref\Entidades.dll

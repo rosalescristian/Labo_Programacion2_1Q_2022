@@ -37,3 +37,15 @@ C:\Users\Esteban\Downloads\ProgLaboII-Clases\SP\20210706-SP TODO\20210706-SP - a
 C:\Users\Esteban\Downloads\ProgLaboII-Clases\SP\20210706-SP TODO\20210706-SP - alumno\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
 C:\Users\Esteban\Downloads\ProgLaboII-Clases\SP\20210706-SP TODO\20210706-SP - alumno\Formularios\obj\Debug\Formularios.exe
 C:\Users\Esteban\Downloads\ProgLaboII-Clases\SP\20210706-SP TODO\20210706-SP - alumno\Formularios\obj\Debug\Formularios.pdb
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase21\20210706-SP TODO\20210706-SP TODO\20210706-SP - alumno\Formularios\bin\Debug\Formularios.exe.config
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase21\20210706-SP TODO\20210706-SP TODO\20210706-SP - alumno\Formularios\bin\Debug\Formularios.exe
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase21\20210706-SP TODO\20210706-SP TODO\20210706-SP - alumno\Formularios\bin\Debug\Formularios.pdb
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase21\20210706-SP TODO\20210706-SP TODO\20210706-SP - alumno\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase21\20210706-SP TODO\20210706-SP TODO\20210706-SP - alumno\Formularios\obj\Debug\Formularios.FrmAgregarCliente.resources
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase21\20210706-SP TODO\20210706-SP TODO\20210706-SP - alumno\Formularios\obj\Debug\Formularios.FrmAtencion.resources
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase21\20210706-SP TODO\20210706-SP TODO\20210706-SP - alumno\Formularios\obj\Debug\Formularios.FrmSimularAtencion.resources
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase21\20210706-SP TODO\20210706-SP TODO\20210706-SP - alumno\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase21\20210706-SP TODO\20210706-SP TODO\20210706-SP - alumno\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase21\20210706-SP TODO\20210706-SP TODO\20210706-SP - alumno\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase21\20210706-SP TODO\20210706-SP TODO\20210706-SP - alumno\Formularios\obj\Debug\Formularios.exe
+D:\Cosas\UTN FRA\2022\Laboratorio y Programacion\Labo_Programacion2_1Q_2022\Guia de ejercicios\Clase21\20210706-SP TODO\20210706-SP TODO\20210706-SP - alumno\Formularios\obj\Debug\Formularios.pdb
